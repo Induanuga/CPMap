@@ -1,0 +1,1571 @@
+[
+  {
+    "name": "Ravi Sharma",
+    "address": "1234 Abcdefg Street, City, Karnataka, India",
+    "email": "ravi_sharma@example.com",
+    "mobileNumber": "+911230456789",
+    "personalWebsite": "https://personalwebsite.com",
+    "socialNetworkLink": ["https://facebook.com/ravisharma", "https://twitter.com/ravisharma"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Middle Class",
+    "background": "Urban",
+    "currentOccupation": "Software Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "institution": "Indian Institute of Technology, Bombay",
+        "from": "2008-06-01",
+        "to": "2012-05-31",
+        "institutionAddress": "Powai, Mumbai, Maharashtra, India"
+      },
+      {
+        "degree": "Master's in Computer Science",
+        "institution": "Indian Institute of Science",
+        "from": "2013-06-01",
+        "to": "2015-05-31",
+        "institutionAddress": "Yeshwantpur, Bengaluru, Karnataka, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Intern",
+        "skills": [
+          {"skill": "AngularJS", "effort": "Hard"},
+          {"skill": "JavaScript", "effort": "Medium"}
+        ],
+        "learnings": "Learning about web development.",
+        "options": "Web Developer, User Interface Developer",
+        "suggestions": "Focus more on JavaScript."
+      },
+      {
+        "stageName": "Entry Level",
+        "stageType": "Junior Software Developer",
+        "skills": [
+          {"skill": "Node.js", "effort": "Hard"},
+          {"skill": "Express.js", "effort": "Medium"}
+        ],
+        "learnings": "Back-end development and handling databases.",
+        "options": "Software Developer, System Engineer",
+        "suggestions": "Focus more on Front-end Technologies."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Meena Gupta",
+    "address": "5678 Hijklmn Road, City, Uttar Pradesh, India",
+    "email": "meena_gupta@example.com",
+    "mobileNumber": "+911234567890",
+    "personalWebsite": "https://meenagupta.com",
+    "socialNetworkLink": ["https://facebook.com/MeenaGupta", "https://twitter.com/MeenaGupta"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Gupta",
+    "economicStatus": "Upper Middle Class",
+    "background": "Rural",
+    "currentOccupation": "Civil Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "institution": "Indian Institute of Technology, Kanpur",
+        "from": "2003-06-01",
+        "to": "2007-05-31",
+        "institutionAddress": "Kalyanpur, Kanpur, Uttar Pradesh, India"
+      },
+      {
+        "degree": "Master's in Construction Management",
+        "institution": "Indian Institute of Management",
+        "from": "2008-06-01",
+        "to": "2010-05-31",
+        "institutionAddress": "Vastrapur, Ahmedabad, Gujarat, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Intern",
+        "skills": [
+          {"skill": "AutoCAD", "effort": "Hard"},
+          {"skill": "Civil 3D", "effort": "Medium"}
+        ],
+        "learnings": "Learning about Infrastructure design.",
+        "options": "Design Engineer, Construction Manager",
+        "suggestions": "Focus more on Structural Engineering."
+      },
+      {
+        "stageName": "Entry Level",
+        "stageType": "Junior Civil Engineer",
+        "skills": [
+          {"skill": "Revit", "effort": "Hard"},
+          {"skill": "STAAD.Pro", "effort": "Medium"}
+        ],
+        "learnings": "Structural design and analysis.",
+        "options": "Civil Engineer, Structural Engineer",
+        "suggestions": "Focus more on Construction Management."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Suresh Joshi",
+    "address": "456 Main Street, Lucknow, UP, India",
+    "email": "sureshJoshi@email.com",
+    "mobileNumber": "+911234567890",
+    "personalWebsite": "www.SureshJoshi.com",
+    "socialNetworkLink": ["https://facebook.com/sureshjoshi", "https://linkedin.com/in/sureshjoshi"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Upper Middle",
+    "background": "Rural",
+    "currentOccupation": "Doctor",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "All India Institute of Medical Sciences, New Delhi",
+        "from": "2001-05-30",
+        "to": "2007-05-30",
+        "institutionAddress": "AIIMS Campus, Ansari Nagar East, New Delhi, India"
+      },
+      {
+        "degree": "MD in Cardiology",
+        "institution": "All India Institute of Medical Sciences, New Delhi",
+        "from": "2008-05-30",
+        "to": "2011-05-30",
+        "institutionAddress": "AIIMS Campus, Ansari Nagar East, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Medical Intern",
+        "skills": [
+          {"skill": "Patient Care", "effort": "Hard"},
+          {"skill": "Medical Knowledge", "effort": "Medium"}
+        ],
+        "learnings": "Basics of patient care and medical procedures.",
+        "options": "Resident Doctor, Private Practitioner",
+        "suggestions": "Improve bedside manners."
+      },
+      {
+        "stageName": "Residency",
+        "stageType": "Resident Doctor",
+        "skills": [
+          {"skill": "Surgical Skills", "effort": "Hard"},
+          {"skill": "Specialist Knowledge", "effort": "Medium"}
+        ],
+        "learnings": "Knowledge of specific medical field (Cardiology).",
+        "options": "Consultant, Private Practitioner",
+        "suggestions": "Acquire more practical experience."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Neha Agarwal",
+    "address": "789 Second Street, Bangalore, Karnataka, India",
+    "email": "nehaAgarwal@email.com",
+    "mobileNumber": "+919876543210",
+    "personalWebsite": "www.nehaAgarwal.com",
+    "socialNetworkLink": ["https://twitter.com/nehaAgarwal", "https://linkedin.com/in/nehaAgarwal"],
+    "gender": "Female",
+    "religion": "Jain",
+    "caste": "Agarwal",
+    "economicStatus": "Upper",
+    "background": "Urban",
+    "currentOccupation": "Data Scientist",
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science",
+        "institution": "Indian Institute of Technology, Bombay",
+        "from": "2005-06-01",
+        "to": "2009-05-31",
+        "institutionAddress": "Powai, Mumbai, Maharashtra, India"
+      },
+      {
+        "degree": "Master's in Data Science",
+        "institution": "Indian Institute of Science, Bangalore",
+        "from": "2010-06-01",
+        "to": "2012-05-31",
+        "institutionAddress": "C V Raman Ave, Bengaluru, Karnataka, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Data Science Intern",
+        "skills": [
+          {"skill": "Python", "effort": "Hard"},
+          {"skill": "Statistical Analysis", "effort": "Medium"}
+        ],
+        "learnings": "Applied knowledge of data analysis.",
+        "options": "Data Scientist, Data Analyst",
+        "suggestions": "Work more on real-life data sets."
+      },
+      {
+        "stageName": "Entry Level",
+        "stageType": "Junior Data Scientist",
+        "skills": [
+          {"skill": "Machine Learning", "effort": "Hard"},
+          {"skill": "Artificial Intelligence", "effort": "Medium"}
+        ],
+        "learnings": "Advanced data modelling.",
+        "options": "Data Scientist, AI Specialist",
+        "suggestions": "Focus more on AI."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Priya Verma",
+    "address": "34 Baker Street, Bangalore, Karnataka, India",
+    "email": "priya_verma@gmail.com",
+    "mobileNumber": "+918065239224",
+    "personalWebsite": "www.priyaverma.com",
+    "socialNetworkLink": ["https://facebook.com/priyaverma", "https://linkedin.com/in/priyaverma"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Rajput",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Freelance Writer",
+    "education": [
+      {
+        "degree": "Bachelors in English Literature",
+        "institution": "Delhi University",
+        "from": "2010-08-15",
+        "to": "2013-05-15",
+        "institutionAddress": "North Campus, Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Content Writer Intern",
+        "skills": [{"skill": "Writing", "effort": "Medium"}, {"skill": "Editing", "effort": "Easy"}],
+        "learnings": "Learnt how to write engaging content and editing skills.",
+        "options": "Content writer, Blogger",
+        "suggestions": "Improve typing speed."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Amit Singh",
+    "address": "122 Rosewood Lane, Udaipur, Rajasthan, India",
+    "email": "amit_singh@gmail.com",
+    "mobileNumber": "+917891230123",
+    "personalWebsite": "www.amitsingh.com",
+    "socialNetworkLink": ["https://facebook.com/Amitsingh", "https://linkedin.com/in/AmitSingh"],
+    "gender": "Male",
+    "religion": "Sikh",
+    "caste": "Jatt Sikh",
+    "economicStatus": "Upper Middle",
+    "background": "Urban",
+    "currentOccupation": "Architect",
+    "education": [
+      {
+        "degree": "Bachelors in Architecture",
+        "institution": "School of Planning and Architecture, Delhi",
+        "from": "2005-08-15",
+        "to": "2010-05-15",
+        "institutionAddress": "4-Block B, IP Estate, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Architecture Intern",
+        "skills": [{"skill": "Drafting", "effort": "Medium"}, {"skill": "Model Building", "effort": "Medium"}],
+        "learnings": "Learnt how to create drafts and build models.",
+        "options": "Architect",
+        "suggestions": "Improve sketching skills."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Deepak Bansal",
+    "address": "123 Jasmine Street, Surat, Gujarat, India",
+    "email": "deepakBansal@mail.com",
+    "mobileNumber": "+914523672089",
+    "personalWebsite": "www.deepakBansal.com",
+    "socialNetworkLink": ["https://facebook.com/deepakBansal", "https://linkedin.com/in/deepakBansal"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Baniya",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Chartered Accountant",
+    "education": [
+      {
+        "degree": "Bachelor's in Commerce",
+        "institution": "Gujarat University",
+        "from": "2007-06-01",
+        "to": "2010-05-25",
+        "institutionAddress": "Navrangpura, Ahmedabad, Gujarat, India"
+      },
+      {
+        "degree": "Chartered Accountant",
+        "institution": "The Institute of Chartered Accountants of India",
+        "from": "2011-06-01",
+        "to": "2014-05-25",
+        "institutionAddress": "ICAI Bhawan, Indraprastha Marg, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Articled Training",
+        "stageType": "CA Intern",
+        "skills": [
+          {"skill": "Auditing", "effort": "Hard"},
+          {"skill": "Taxation", "effort": "Medium"}
+        ],
+        "learnings": "Prerequisites of auditing.",
+        "options": "Tax Consultant, Financial Advisor",
+        "suggestions": "Improve legal knowledge."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Shivani Patel",
+    "address": "456 Rose Lane, Bhopal, Madhya Pradesh, India",
+    "email": "shivaniPatel@mail.com",
+    "mobileNumber": "+919765432109",
+    "personalWebsite": "www.shivaniPatel.com",
+    "socialNetworkLink": ["https://facebook.com/shivaniPatel", "https://linkedin.com/in/shivaniPatel"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Patidar",
+    "economicStatus": "Middle",
+    "background": "Rural",
+    "currentOccupation": "School Teacher",
+    "education": [
+      {
+        "degree": "Bachelor of Arts in Education",
+        "institution": "Barkatullah University",
+        "from": "2005-06-01",
+        "to": "2008-05-31",
+        "institutionAddress": "Hoshangabad Road, Bhopal, Madhya Pradesh, India"
+      },
+      {
+        "degree": "Master of Arts in Education",
+        "institution": "Barkatullah University",
+        "from": "2009-06-01",
+        "to": "2011-05-31",
+        "institutionAddress": "Hoshangabad Road, Bhopal, Madhya Pradesh, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Teacher Intern",
+        "skills": [
+          {"skill": "Course Planning", "effort": "Medium"},
+          {"skill": "Student Evaluation", "effort": "Medium"}
+        ],
+        "learnings": "Gained experience in lesson planning.",
+        "options": "Primary Teacher, High School Teacher",
+        "suggestions": "Focus on child psychology."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Punit Mishra",
+    "address": "42, Avenue Road, Jaipur, Rajasthan, India",
+    "email": "punit.mishra@example.com",
+    "mobileNumber": "+912345678906",
+    "personalWebsite": "www.punitmishra.com",
+    "socialNetworkLink": ["https://twitter.com/punit_mishra", "https://linkedin.com/in/punitmishra"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Middle",
+    "background": "Rural",
+    "currentOccupation": "Mechanical Engineer",
+    "education": [
+      {
+        "degree": "Bachelor's in Mechanical Engineering",
+        "institution": "Birla Institute of Technology and Science, Pilani",
+        "from": "2015-08-01",
+        "to": "2019-08-30",
+        "institutionAddress": "Vidya Vihar, Pilani, Rajasthan, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Intern",
+        "skills": [
+          {"skill": "AutoCAD", "effort": "Medium"},
+          {"skill": "SolidWorks", "effort": "Hard"}
+        ],
+        "learnings": "Understood the basics of various software used in mechanical design.",
+        "options": "Mechanical Engineer",
+        "suggestions": "Need to focus more on thermodynamics."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Lakshmi Menon",
+    "address": "1, MG Road, Kochi, Kerala, India",
+    "email": "lakshmi.menon@example.com",
+    "mobileNumber": "+917869520431",
+    "personalWebsite": "www.lakshmi-menon.com",
+    "socialNetworkLink": ["https://facebook.com/lakshmi.menon", "https://linkedin.com/in/lakshmi-menon"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Nair",
+    "economicStatus": "Upper Middle",
+    "background": "Urban",
+    "currentOccupation": "Film Director",
+    "education": [
+      {
+        "degree": "Bachelor's in Mass Communication",
+        "institution": "Amity University",
+        "from": "2007-06-13",
+        "to": "2010-05-31",
+        "institutionAddress": "Amity Rd, Sector 125, Noida, Uttar Pradesh, India"
+      },
+      {
+        "degree": "Master's in Film Making",
+        "institution": "Film and Television Institute of India",
+        "from": "2010-06-01",
+        "to": "2012-05-31",
+        "institutionAddress": "Law College Rd, Pune, Maharashtra, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Assistant Director Intern",
+        "skills": [
+          {"skill": "Management", "effort": "Hard"},
+          {"skill": "Storytelling", "effort": "Medium"}
+        ],
+        "learnings": "Worked closely with the director and understood the process of movie making.",
+        "options": "Film Director, Screen Writer",
+        "suggestions": "Need to work on storytelling."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Rohit Sharma",
+    "address": "789 Green Avenue, Jaipur, Rajasthan, India",
+    "email": "rohit_sharma@example.com",
+    "mobileNumber": "+919998877665",
+    "personalWebsite": "www.rohitsharma.com",
+    "socialNetworkLink": ["https://facebook.com/rohit.sharma", "https://linkedin.com/in/rohitsharma"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Upper Middle",
+    "background": "Rural",
+    "currentOccupation": "Entrepreneur",
+    "education": [
+      {
+        "degree": "Bachelor's in Business Administration",
+        "institution": "Rajasthan University",
+        "from": "2008-07-17",
+        "to": "2011-06-30",
+        "institutionAddress": "Jawahar Lal Nehru Marg, Rajasthan, India"
+      },
+      {
+        "degree": "Master's in Business Administration",
+        "institution": "Indian Institute of Management, Ahmedabad",
+        "from": "2012-06-01",
+        "to": "2014-05-31",
+        "institutionAddress": "Vastrapur, Ahmedabad, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Management Trainee",
+        "skills": [
+          {"skill": "Leadership", "effort": "Hard"},
+          {"skill": "Strategy Planning", "effort": "Medium"}
+        ],
+        "learnings": "Grasped the art of leadership and strategy planning.",
+        "options": "Manager, Business Analyst",
+        "suggestions": "Improve negotiation skills."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Anjali Verma",
+    "address": "456 Blue Street, Mumbai, Maharashtra, India",
+    "email": "anjali_verma@example.com",
+    "mobileNumber": "+918877665544",
+    "personalWebsite": "www.anjaliverma.com",
+    "socialNetworkLink": ["https://twitter.com/anjali_verma", "https://linkedin.com/in/anjaliverma"],
+    "gender": "Female",
+    "religion": "Buddhist",
+    "caste": "SC",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Psychologist",
+    "education": [
+      {
+        "degree": "Bachelor's in Psychology",
+        "institution": "Delhi University",
+        "from": "2010-08-01",
+        "to": "2013-07-30",
+        "institutionAddress": "Benito Juarez Road, South Campus, New Delhi, India"
+      },
+      {
+        "degree": "Master's in Clinical Psychology",
+        "institution": "Tata Institute of Social Sciences",
+        "from": "2013-08-01",
+        "to": "2015-07-30",
+        "institutionAddress": "V.N. Purav Marg, Deonar, Mumbai, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Clinical Psychologist Intern",
+        "skills": [
+          {"skill": "Counseling", "effort": "Hard"},
+          {"skill": "Psychoanalysis", "effort": "Medium"}
+        ],
+        "learnings": "Human mind analysis and managing mental health.",
+        "options": "Clinical Psychologist, Counselor",
+        "suggestions": "Should get PHD in Psychology."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Shiv Dutta",
+    "address": "221B Baker street, Kolkata, West Bengal, India",
+    "email": "shiv.dutta@example.com",
+    "mobileNumber": "+917754189230",
+    "personalWebsite": "www.shivdutta.com",
+    "socialNetworkLink": ["https://twitter.com/shiv_dutta", "https://linkedin.com/in/shivdutta"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "High",
+    "background": "Rural",
+    "currentOccupation": "Writer",
+    "education": [
+      {
+        "degree": "Bachelor's in English Literature",
+        "institution": "Calcutta University",
+        "from": "2002-06-01",
+        "to": "2005-06-01",
+        "institutionAddress": "50, College Street, Kolkata, India"
+      },
+      {
+        "degree": "Master's in English Literature",
+        "institution": "Jadavpur University",
+        "from": "2006-06-01",
+        "to": "2008-06-01",
+        "institutionAddress": "188, Raja S.C. Mallik Road, Kolkata, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Editorial Intern",
+        "skills": [
+          {"skill": "Proofreading", "effort": "Hard"},
+          {"skill": "Formatting", "effort": "Medium"}
+        ],
+        "learnings": "Learning the nuances of editing and proofreading",
+        "options": "Editor, Writer",
+        "suggestions": "Take more creative writing courses."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Jyoti Khatri",
+    "address": "101 Red Street, Amritsar, Punjab, India",
+    "email": "jyoti_khatri@example.com",
+    "mobileNumber": "+919436752819",
+    "personalWebsite": "www.jyotikhatri.com",
+    "socialNetworkLink": ["https://facebook.com/jyoti.khatri", "https://linkedin.com/in/jyotikhatri"],
+    "gender": "Female",
+    "religion": "Sikh",
+    "caste": "Khatri Sikh",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Photographer",
+    "education": [
+      {
+        "degree": "Bachelor's in Fine Arts",
+        "institution": "Panjab University",
+        "from": "2011-07-01",
+        "to": "2014-06-30",
+        "institutionAddress": "Sector 14, Chandigarh, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Photography Intern",
+        "skills": [
+          {"skill": "Framing", "effort": "Hard"},
+          {"skill": "Editing", "effort": "Medium"}
+        ],
+        "learnings": "Refinement of photography skills",
+        "options": "Photographer, Art Director",
+        "suggestions": "Take more courses on digital photography."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Rajesh Kumar",
+    "address": "Plot 22, MG Road, Bengaluru, Karnataka, India",
+    "email": "rajeshkumar@example.com",
+    "mobileNumber": "+918542367890",
+    "personalWebsite": "www.rajeshkumar.com",
+    "socialNetworkLink": ["https://www.facebook.com/rajeshkumar", "https://www.linkedin.com/in/rajeshkumar", "https://twitter.com/rajeshkumar"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Middle",
+    "background": "Rural",
+    "currentOccupation": "Software Developer",
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science",
+        "institution": "National Institute of Technology, Warangal",
+        "from": "2010-06-01",
+        "to": "2014-05-31",
+        "institutionAddress": "Warangal, Telangana, India"
+      },
+      {
+        "degree": "Master of Technology in Software Systems",
+        "institution": "Indian Institute of Technology, Kanpur",
+        "from": "2015-06-01",
+        "to": "2017-05-31",
+        "institutionAddress": "Kalyanpur, Kanpur, Uttar Pradesh, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Software Development Intern",
+        "skills": [
+          {"skill": "Python", "effort": "Hard"},
+          {"skill": "Java", "effort": "Medium"}
+        ],
+        "learnings": "Algorithms and Data Structures.",
+        "options": "Python Developer, Java Developer",
+        "suggestions": "Learn more about Machine Learning."
+      },
+      {
+        "stageName": "On-the-job",
+        "stageType": "Software Developer",
+        "skills": [
+          {"skill": "Machine Learning", "effort": "Hard"},
+          {"skill": "Web Development", "effort": "Medium"}
+        ],
+        "learnings": "Advanced Algorithms and Full-Stack Web Development.",
+        "options": "Machine Learning Engineer, Full Stack Developer",
+        "suggestions": "Learn more about Data Science."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Anita Singh",
+    "address": "Block C, Sector 60, Noida, Uttar Pradesh, India",
+    "email": "anitasingh@example.com",
+    "mobileNumber": "+919876543210",
+    "personalWebsite": "www.anitasingh.com",
+    "socialNetworkLink": ["https://www.facebook.com/anitasingh", "https://www.linkedin.com/in/anitasingh", "https://twitter.com/anitasingh"],
+    "gender": "Female",
+    "religion": "Sikh",
+    "caste": "Jatt Sikh",
+    "economicStatus": "High",
+    "background": "Urban",
+    "currentOccupation": "IAS Officer",
+    "education": [
+      {
+        "degree": "Bachelor of Arts in Political Science",
+        "institution": "Delhi University",
+        "from": "2004-06-01",
+        "to": "2007-05-31",
+        "institutionAddress": "Delhi, India"
+      },
+      {
+        "degree": "Master's in Public Administration",
+        "institution": "Delhi University",
+        "from": "2008-06-01",
+        "to": "2010-05-31",
+        "institutionAddress": "Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Public Administration Intern",
+        "skills": [
+          {"skill": "Administration", "effort": "Hard"},
+          {"skill": "Management", "effort": "Medium"}
+        ],
+        "learnings": "Public Policy and Management.",
+        "options": "Civil Servant, Public Administrator",
+        "suggestions": "Prepare for Civil Service Examination."
+      },
+      {
+        "stageName": "IAS Academy",
+        "stageType": "IAS Probationary Officer",
+        "skills": [
+          {"skill": "Decision Making", "effort": "Hard"},
+          {"skill": "Crisis Handling", "effort": "Medium"}
+        ],
+        "learnings": "Leadership and Decision Making.",
+        "options": "IAS Officer, Public Administrator",
+        "suggestions": "Develop leadership skills."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Sanjana Desai",
+    "address": "16, Gandhi Road, Nagpur, Maharashtra, India",
+    "email": "sanjana.desai@example.com",
+    "mobileNumber": "+919753456182",
+    "personalWebsite": null,
+    "socialNetworkLink": ["https://www.facebook.com/sanjana.desai", "https://www.linkedin.com/in/sanjana-desai"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Maratha",
+    "economicStatus": "Upper",
+    "background": "Urban",
+    "currentOccupation": "Graphic Designer",
+    "education": [
+      {
+        "degree": "Bachelor of Fine Arts",
+        "institution": "Symbiosis Institute of Design",
+        "from": "2009-07-01",
+        "to": "2013-06-30",
+        "institutionAddress": "Senapati Bapat Road, Pune, Maharashtra, India"
+      },
+      {
+        "degree": "Master's in Visual Communication",
+        "institution": "National Institute of Design",
+        "from": "2014-07-01",
+        "to": "2016-06-30",
+        "institutionAddress": "Opp Tagore Hall, Paldi, Ahmedabad, Gujarat, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Graphic Design Intern",
+        "skills": [
+          {"skill": "Adobe Illustrator", "effort": "High"},
+          {"skill": "Adobe Photoshop", "effort": "High"},
+          {"skill": "Sketching", "effort": "Medium"}
+        ],
+        "learnings": "Designing logos, advertisements and photo editing.",
+        "options": "Graphic Designer, Visual Arts Designer",
+        "suggestions": "Work on software like InDesign and CorelDraw."
+      },
+      {
+        "stageName": "Entry Level",
+        "stageType": "Graphic Designer",
+        "skills": [
+          {"skill": "User Interface Design", "effort": "High"},
+          {"skill": "Brand Design", "effort": "Medium"}
+        ],
+        "learnings": "Designing interfaces for applications and branding products.",
+        "options": "UI/UX Designer, Art Director",
+        "suggestions": "Work on 3D design software like Blender or SketchUp."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Mohit Rana",
+    "address": "100, Nehru Nagar, Dehradun, Uttarakhand, India",
+    "email": "mohit.rana@example.com",
+    "mobileNumber": "+918652341092",
+    "personalWebsite": "www.mohitrana.com",
+    "socialNetworkLink": ["https://www.facebook.com/mohit.rana", "https://www.linkedin.com/in/mohit-rana"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Rajput",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Chef",
+    "education": [
+      {
+        "degree": "Bachelor's in Hotel Management",
+        "institution": "Institute of Hotel Management, Catering and Nutrition, Pusa",
+        "from": "2008-07-17",
+        "to": "2012-06-25",
+        "institutionAddress": "Pusa, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Trainee Chef",
+        "skills": [
+          {"skill": "Cooking", "effort": "High"},
+          {"skill": "Menu Planning", "effort": "Medium"}
+        ],
+        "learnings": "Culinary arts",
+        "options": "Chef, Hotel Manager",
+        "suggestions": "Learn more cuisines."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Rakhi Srivastava",
+    "address": "17, Green Park, Kanpur, UP, India",
+    "email": "rakhi.srivas@example.com",
+    "mobileNumber": "+919537641280",
+    "personalWebsite": "www.rakhisrivas.com",
+    "socialNetworkLink": ["https://twitter.com/rakhi_srivas", "https://linkedin.com/in/rakhi-srivas"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Kayastha",
+    "economicStatus": "Lower",
+    "background": "Urban",
+    "currentOccupation": "Social Worker",
+    "education": [
+      {
+        "degree": "MSW (Master of Social Work)",
+        "institution": "Banaras Hindu University",
+        "from": "2007-09-01",
+        "to": "2009-05-30",
+        "institutionAddress": "Varanasi, UP, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Social Work Intern",
+        "skills": [
+          {"skill": "Community Mobilization", "effort": "High"},
+          {"skill": "Counseling", "effort": "Medium"}
+        ],
+        "learnings": "Community service and counseling.",
+        "options": "Social Worker, NGO Manager",
+        "suggestions": "Improve public speaking."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Manish Patel",
+    "address": "565, Park Lane, Navi Mumbai, Maharashtra, India",
+    "email": "manish.patel@example.com",
+    "mobileNumber": "+918562347078",
+    "personalWebsite": "www.manishpatel.com",
+    "socialNetworkLink": ["https://twitter.com/manish_patel", "https://linkedin.com/in/manishpatel"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Patidar",
+    "economicStatus": "High",
+    "background": "Urban",
+    "currentOccupation": "Music Therapist",
+    "education": [
+      {
+        "degree": "Bachelor's in Psychology",
+        "institution": "Mumbai University",
+        "from": "2006-06-01",
+        "to": "2009-06-01",
+        "institutionAddress": "Kalina, Santacruz East, Mumbai, Maharashtra, India"
+      },
+      {
+        "degree": "Master's in Music Therapy",
+        "institution": "Bangalore University",
+        "from": "2010-06-01",
+        "to": "2012-06-01",
+        "institutionAddress": "Jnana Bharathi, Bangalore, Karnataka, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Music Therapy Intern",
+        "skills": [
+          {"skill": "Therapeutic Music Knowledge", "effort": "High"},
+          {"skill": "Client Rapport Building", "effort": "Medium"}
+        ],
+        "learnings": "Explored the therapeutic use of music.",
+        "options": "Music Therapist, Clinical Therapist",
+        "suggestions": "Develop skills in a variety of musical instruments."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Sandhya Rani",
+    "address": "B-34, Madapur, Hyderabad, Telangana, India",
+    "email": "sandhya.rani@example.com",
+    "mobileNumber": "+918970621346",
+    "personalWebsite": "www.sandhyarani.com",
+    "socialNetworkLink": ["https://facebook.com/sandhya.rani", "https://linkedin.com/in/sandhyarani"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Kamma",
+    "economicStatus": "Upper",
+    "background": "Rural",
+    "currentOccupation": "Fashion Designer",
+    "education": [
+      {
+        "degree": "Bachelor's in Fashion Designing",
+        "institution": "National Institute of Fashion Technology",
+        "from": "2007-06-01",
+        "to": "2010-06-01",
+        "institutionAddress": "Hauz Khas, Near Gulmohar Park, New Delhi, India"
+      },
+      {
+        "degree": "Master's in Fashion Marketing",
+        "institution": "National Institute of Fashion Technology",
+        "from": "2011-06-01",
+        "to": "2013-06-01",
+        "institutionAddress": "Hauz Khas, Near Gulmohar Park, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Fashion Design Intern",
+        "skills": [
+          {"skill": "Sketching Designs", "effort": "Hard"},
+          {"skill": "Understanding Fashion Trends", "effort": "Medium"}
+        ],
+        "learnings": "Hands-on experience in the fashion industry.",
+        "options": "Fashion Designer, Fashion Consultant",
+        "suggestions": "Attend international fashion week events."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Ravish Kumar",
+    "address": "Karnal, Haryana, India",
+    "email": "ravish@example.com",
+    "mobileNumber": "+918774891233",
+    "personalWebsite": "www.ravishkumar.com",
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Low",
+    "background": "Rural",
+    "currentOccupation": "Truck Driver",
+    "education": [
+      {
+        "degree": "High School",
+        "institution": "Government Senior Secondary School, Karnal",
+        "from": "2002-04-01",
+        "to": "2006-06-01",
+        "institutionAddress": "Heernagar, Karnal, Haryana, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Apprenticeship",
+        "stageType": "Assistant Driver",
+        "skills": [
+          {"skill": "Heavy Vehicle Handling", "effort": "Hard"},
+          {"skill": "Basic Vehicle Mechanics", "effort": "Medium"}
+        ],
+        "learnings": "Learned to handle heavy trucks and understand their mechanics",
+        "options": "Truck Driver, Bus Driver",
+        "suggestions": "Get a heavy motor vehicle license"
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Shalu Yadav",
+    "address": "Agra, Uttar Pradesh, India",
+    "email": "shalu@example.com",
+    "mobileNumber": "+918898988899",
+    "personalWebsite": null,
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Yadav",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Business Owner - Clothing Boutique",
+    "education": [
+      {
+        "degree": "Bachelors in Fashion Design",
+        "institution": "National Institute of Fashion Technology, Delhi",
+        "from": "2007-08-20",
+        "to": "2011-06-04",
+        "institutionAddress": "Hauz Khas, Near Gulmohar Park, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Fashion Design Intern",
+        "skills": [
+          {"skill": "Clothing Design", "effort": "Hard"},
+          {"skill": "Trend Analysis", "effort": "Medium"}
+        ],
+        "learnings": "Developed fashion design skills and understood latest trends",
+        "options": "Fashion Designer, Boutique Owner",
+        "suggestions": "Improve networking skills"
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Pankaj Singh",
+    "address": "14/A, Rajani Sen Road, Kolkata, West Bengal, India",
+    "email": "pankaj_singh90@example.com",
+    "mobileNumber": "+919876543210",
+    "personalWebsite": "www.pankajsingh.com",
+    "socialNetworkLink": ["https://www.facebook.com/pankaj.singh", "https://www.linkedin.com/in/pankaj-singh"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Thakur",
+    "economicStatus": "Upper Middle",
+    "background": "Urban",
+    "currentOccupation": "Architect",
+    "education": [
+      {
+        "degree": "Bachelor's in Architecture",
+        "institution": "School of Planning and Architecture",
+        "from": "2007-07-12",
+        "to": "2012-06-25",
+        "institutionAddress": "Indraprastha Estate, New Delhi, Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Apprenticeship",
+        "stageType": "Junior Architect",
+        "skills": [
+          {"skill": "Building Design", "effort": "Hard"},
+          {"skill": "Project Management", "effort": "Medium"}
+        ],
+        "learnings": "Industry exposure and hands-on experience in architectural designs.",
+        "options": "Senior Architect, Project Manager",
+        "suggestions": "Work on 3D modeling software."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Kavita Gupta",
+    "address": "A-34, Defence Colony, New Delhi, Delhi, India",
+    "email": "kavita.gupta@example.com",
+    "mobileNumber": "+919756482130",
+    "personalWebsite": "www.kavitagupta.com",
+    "socialNetworkLink": ["https://twitter.com/kavita_gupta", "https://linkedin.com/in/kavitagupta"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Bania",
+    "economicStatus": "Upper",
+    "background": "Rural",
+    "currentOccupation": "Physician",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "AIIMS",
+        "from": "2005-07-01",
+        "to": "2010-06-30",
+        "institutionAddress": "Safdarjung Enclave, Aurobindo Marg, Ansari Nagar, New Delhi, India"
+      },
+      {
+        "degree": "MD (General Medicine)",
+        "institution": "AIIMS",
+        "from": "2011-07-01",
+        "to": "2014-06-30",
+        "institutionAddress": "Safdarjung Enclave, Aurobindo Marg, Ansari Nagar, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Medical Intern",
+        "skills": [
+          {"skill": "Patient Care", "effort": "Hard"},
+          {"skill": "Clinical Judgment", "effort": "Medium"}
+        ],
+        "learnings": "Provided medical care under supervision.",
+        "options": "Physician, Surgeon",
+        "suggestions": "Should specialize in a particular medical field."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Ramayan Tiwari",
+    "address": "13, Laxmi Nagar, Patna, Bihar, India",
+    "email": "ramayan.tiwari@example.com",
+    "mobileNumber": "+918766543210",
+    "personalWebsite": "www.ramayantiwari.com",
+    "socialNetworkLink": ["https://twitter.com/ramayantiwari", "https://linkedin.com/in/ramayantiwari"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Bhumihar Brahmin",
+    "economicStatus": "Lower Middle",
+    "background": "Rural",
+    "currentOccupation": "Civil Engineer",
+    "education": [
+      {
+        "degree": "Bachelor's in Civil Engineering",
+        "institution": "Bihar Institute of Technology",
+        "from": "2003-08-01",
+        "to": "2007-05-30",
+        "institutionAddress": "Sindri, Dhanbad, Jharkhand, India"
+      },
+      {
+        "degree": "Master's in Structural Engineering",
+        "institution": "Indian Institute of Technology, Kharagpur",
+        "from": "2008-08-01",
+        "to": "2010-05-30",
+        "institutionAddress": "Kharagpur, West Bengal, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Trainee Engineer",
+        "skills": [
+          {"skill": "Concrete Technology", "effort": "Medium"},
+          {"skill": "Quantity Survey", "effort": "Medium"}
+        ],
+        "learnings": "Gained practical exposure in construction works and material testing.",
+        "options": "Site Engineer, Structural Engineer",
+        "suggestions": "Should work on analytical skills."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Ranjana Kumari",
+    "address": "312, Shanti Vihar, Patna, Bihar, India",
+    "email": "ranjanakumari@example.com",
+    "mobileNumber": "+919263547891",
+    "personalWebsite": "www.ranjanakumari.com",
+    "socialNetworkLink": ["https://twitter.com/ranjanakumari", "https://linkedin.com/in/ranjanakumari"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Bhumihar",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Primary School Teacher",
+    "education": [
+      {
+        "degree": "Bachelor of Education",
+        "institution": "Patna University",
+        "from": "2010-06-01",
+        "to": "2012-06-01",
+        "institutionAddress": "Ashok Rajpath, Patna, Bihar, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Trainee Teacher",
+        "skills": [
+          {"skill": "Teaching", "effort": "Hard"},
+          {"skill": "Class Management", "effort": "Medium"}
+        ],
+        "learnings": "Learned teaching methods and how to manage class.",
+        "options": "School Teacher, Tutor",
+        "suggestions": "Get experience in different school environments."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Himanshu Dubey",
+    "address": "B-21, Gautam Nagar, Allahabad, UP, India",
+    "email": "himanshudubey@example.com",
+    "mobileNumber": "+917896543210",
+    "personalWebsite": "www.himanshudubey.com",
+    "socialNetworkLink": ["https://www.facebook.com/himanshu.dubey", "https://www.linkedin.com/in/himanshu-dubey"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Upper",
+    "background": "Rural",
+    "currentOccupation": "Doctor",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "Moti Lal Nehru Medical College, Allahabad",
+        "from": "2007-05-07",
+        "to": "2012-05-30",
+        "institutionAddress": "Allahabad, UP, India"
+      },
+      {
+        "degree": "MD (General Medicine)",
+        "institution": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+        "from": "2013-07-01",
+        "to": "2016-06-30",
+        "institutionAddress": "Lucknow, UP, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Residency",
+        "stageType": "Resident Doctor",
+        "skills": [
+          {"skill": "Patient Diagnosis", "effort": "Hard"},
+          {"skill": "Prescribing Medicine", "effort": "Medium"}
+        ],
+        "learnings": "Diagnosed and treated patients under supervision.",
+        "options": "General Physician, Specialist Doctor",
+        "suggestions": "Should go for a specialization."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Gopal Verma",
+    "address": "Mahaveer Marg, Gorakhpur, Uttar Pradesh, India",
+    "email": "gopal.verma@example.com",
+    "mobileNumber": "+919812365478",
+    "personalWebsite": "www.gopalverma.com",
+    "socialNetworkLink": ["https://www.facebook.com/gopal.verma", "https://www.linkedin.com/in/gopal-verma"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Kurmi",
+    "economicStatus": "Low",
+    "background": "Rural",
+    "currentOccupation": "Carpenter",
+    "education": [
+      {
+        "degree": "Middle School",
+        "institution": "Ram Narayan Inter College",
+        "from": "1989-04-01",
+        "to": "1995-06-01",
+        "institutionAddress": "Barhalganj, Gorakhpur, Uttar Pradesh, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Apprenticeship",
+        "stageType": "Carpenter Assistant",
+        "skills": [
+          {"skill": "Wood Cutting", "effort": "Hard"},
+          {"skill": "Furniture Making", "effort": "Medium"}
+        ],
+        "learnings": "Learning furniture making and instrument handling.",
+        "options": "Carpenter, Furniture Shop Owner",
+        "suggestions": "Upgrade your skills and learn latest furniture designs."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Sunita Sharma",
+    "address": "Block E, Mayur Vihar, Delhi, Delhi, India",
+    "email": "sunita.sharma@example.com",
+    "mobileNumber": "+919654123789",
+    "personalWebsite": "www.sunitasharma.com",
+    "socialNetworkLink": ["https://www.facebook.com/sunita.sharma", "https://www.linkedin.com/in/sunita-sharma"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "School Teacher",
+    "education": [
+      {
+        "degree": "Bachelor of Education",
+        "institution": "Delhi University",
+        "from": "1988-06-01",
+        "to": "1989-05-31",
+        "institutionAddress": "Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Entry Level",
+        "stageType": "Primary School Teacher",
+        "skills": [
+          {"skill": "Teaching", "effort": "High"},
+          {"skill": "Student Assessment", "effort": "Medium"}
+        ],
+        "learnings": "Teaching different age group of students.",
+        "options": "Primary School Teacher, Tutor",
+        "suggestions": "Develop your skills in teaching in English medium."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Jyoti Verma",
+    "address": "12, Sarvodaya Enclave, Delhi, Delhi, India",
+    "email": "jyoti.verma@example.com",
+    "mobileNumber": "+919123456789",
+    "personalWebsite": "www.jyotiverma.com",
+    "socialNetworkLink": ["https://www.facebook.com/jyoti.verma", "https://www.linkedin.com/in/jyoti-verma"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Jat",
+    "economicStatus": "Upper Middle",
+    "background": "Urban",
+    "currentOccupation": "Social Activist",
+    "education": [
+      {
+        "degree": "Masters in Social Work",
+        "institution": "Delhi School of Social Work",
+        "from": "2001-06-01",
+        "to": "2003-06-01",
+        "institutionAddress": "3 University Road, New Delhi, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Starting Career",
+        "stageType": "Social Worker",
+        "skills": [
+          {"skill": "Community Mobilization", "effort": "High"},
+          {"skill": "Problem Solving", "effort": "Medium"}
+        ],
+        "learnings": "Understood the importance of collective community effort.",
+        "options": "NGO Manager, Social Activist",
+        "suggestions": "Learn more about strategic planning and execution."
+      },
+      {
+        "stageName": "Career Progression",
+        "stageType": "Social Activist",
+        "skills": [
+          {"skill": "Fundraising", "effort": "Hard"},
+          {"skill": "Awareness Creation", "effort": "Medium"}
+        ],
+        "learnings": "Knowledge about different social issues and how to handle them.",
+        "options": "NGO Manager, Social Activist",
+        "suggestions": "Master grant writing and PR skills."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Abhimanyu Singh",
+    "address": "33, Park Street, Kolkata, West Bengal, India",
+    "email": "abhimanyu.singh@example.com",
+    "mobileNumber": "+917890123456",
+    "personalWebsite": "www.abhimanyusingh.com",
+    "socialNetworkLink": ["https://www.facebook.com/abhimanyu.singh", "https://www.linkedin.com/in/abhimanyu-singh"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Rajput",
+    "economicStatus": "High",
+    "background": "Urban",
+    "currentOccupation": "Entrepreneur",
+    "education": [
+      {
+        "degree": "Bachelor's in Computer Science",
+        "institution": "Indian Institute of Technology, Bombay",
+        "from": "2001-08-01",
+        "to": "2005-05-30",
+        "institutionAddress": "Powai, Mumbai, Maharashtra, India"
+      },
+      {
+        "degree": "Master's in Business Administration",
+        "institution": "Indian Institute of Management, Ahmedabad",
+        "from": "2006-08-01",
+        "to": "2008-05-30",
+        "institutionAddress": "Vastrapur, Ahmedabad, Gujarat, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Startup",
+        "stageType": "Co-Founder",
+        "skills": [
+          {"skill": "Business Strategy", "effort": "High"},
+          {"skill": "Team Leadership", "effort": "Medium"}
+        ],
+        "learnings": "Learned to build business from scratch and manage teams.",
+        "options": "CEO, Consultant",
+        "suggestions": "Know your market and be flexible to adjust strategies."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Ankita Patel",
+    "address": "Sector 12H, Gandhinagar, Gujarat, India",
+    "email": "ankita.patel@example.com",
+    "mobileNumber": "+919876543210",
+    "personalWebsite": "www.ankitapatel.com",
+    "socialNetworkLink": ["https://www.facebook.com/ankita.patel", "https://www.linkedin.com/in/ankita-patel"],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Patel",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Computer Scientist",
+    "education": [
+      {
+        "degree": "B.Tech in Computer Science",
+        "institution": "Nirma University",
+        "from": "2010-07-01",
+        "to": "2014-06-30",
+        "institutionAddress": "Sarkhej-Gandhinagar Highway, Post: Chandlodia, Via: Gota, Ahmedabad, Gujarat, India"
+      },
+      {
+        "degree": "M.Tech in Computer Science",
+        "institution": "IIT Kanpur",
+        "from": "2015-07-15",
+        "to": "2017-06-30",
+        "institutionAddress": "Kalyanpur, Kanpur, Uttar Pradesh, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Internship",
+        "stageType": "Software Developer Intern",
+        "skills": [
+          {"skill": "Java Programming", "effort": "High"},
+          {"skill": "Database Management", "effort": "Medium"}
+        ],
+        "learnings": "Developed software solutions for different projects.",
+        "options": "Software Engineer, Data Scientist",
+        "suggestions": "Get a certification in Machine Learning."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  },
+  {
+    "name": "Ram Prakash",
+    "address": "Shyam Nagar, Jaipur, Rajasthan, India",
+    "email": "ram.prakash@example.com",
+    "mobileNumber": "+919654782310",
+    "personalWebsite": "www.ramprakash.com",
+    "socialNetworkLink": ["https://www.facebook.com/ram.prakash", "https://www.linkedin.com/in/ram-prakash"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Jat",
+    "economicStatus": "Low",
+    "background": "Rural",
+    "currentOccupation": "Plumber",
+    "education": [
+      {
+        "degree": "Diploma in Plumbing Technology",
+        "institution": "Industrial Training Institute, Sanganer",
+        "from": "2005-07-01",
+        "to": "2007-06-30",
+        "institutionAddress": "Tonk Road, Sanganer, Jaipur, Rajasthan, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Apprenticeship",
+        "stageType": "Assistant Plumber",
+        "skills": [
+          {"skill": "Pipe Installation and Repair", "effort": "High"},
+          {"skill": "Inspection of Plumbing Systems", "effort": "Medium"}
+        ],
+        "learnings": "Understood different plumbing tasks and responsibilities.",
+        "options": "Plumber, Pipe Fitter",
+        "suggestions": "Get a plumbing license."
+      }
+    ],
+    "status": "Unverified",
+    "verified_by": null
+  },
+  {
+    "name": "Rakesh Kumar",
+    "address": "105, Babarpur, Shahdara, Delhi, India",
+    "email": "rakesh.kumar@example.com",
+    "mobileNumber": "+918435276591",
+    "personalWebsite": "www.rakeshkumar.com",
+    "socialNetworkLink": ["https://www.facebook.com/rakesh.kumar", "https://www.linkedin.com/in/rakeshkumar"],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Gupta",
+    "economicStatus": "Middle",
+    "background": "Urban",
+    "currentOccupation": "Bank Manager",
+    "education": [
+      {
+        "degree": "Bachelor's in Commerce",
+        "institution": "Delhi University",
+        "from": "1992-07-15",
+        "to": "1995-06-14",
+        "institutionAddress": "Delhi, India"
+      },
+      {
+        "degree": "Masters in Business Administration (Finance)",
+        "institution": "Indian Institute of Management, Bangalore",
+        "from": "1996-07-15",
+        "to": "1998-06-14",
+        "institutionAddress": "Bangalore, Karnataka, India"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Early Career",
+        "stageType": "Banking Associate",
+        "skills": [
+          {"skill": "Customer Service", "effort": "Medium"},
+          {"skill": "Risk Identification", "effort": "High"}
+        ],
+        "learnings": "Gained first-hand customer experience and improved risk management skills.",
+        "options": "Investment Banker, Bank Manager",
+        "suggestions": "Further enhance your leadership skills."
+      },
+      {
+        "stageName": "Mid Career",
+        "stageType": "Assistant Bank Manager",
+        "skills": [
+          {"skill": "Team Management", "effort": "High"},
+          {"skill": "Aptitude for Mathematics", "effort": "High"}
+        ],
+        "learnings": "Learned to manage a team and improve decision-making skills.",
+        "options": "Bank Manager, Finance Manager",
+        "suggestions": "Stay updated with the latest banking regulations and norms."
+      }
+    ],
+    "status": "Verified",
+    "verified_by": null
+  }
+]

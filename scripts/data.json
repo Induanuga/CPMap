@@ -1,0 +1,918 @@
+[
+    {
+        "name": "Naveen Chekkapalli",
+        "city": {
+            "id": 132678,
+            "name": "Kakinada"
+        },
+        "address": "D-NO:30-1-31, Rangayyanaidu Street, Opp: SriRamaSamajam, KAKINADA, ANDHRA PRADESH, 533001, India",
+        "state": {
+            "iso2": "AP",
+            "name": "Andhra Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "chnaveen.in@gmail.com",
+        "mobileNumber": "+91 92929 92929",
+        "personalWebsite": "personalLink1",
+        "socialNetworkLink": [
+            "socialLink1",
+            "socialLink2"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "General",
+        "economicStatus": "Middle Class",
+        "background": "Urban",
+        "currentOccupation": "Student",
+        "currentSalary": 0,
+        "interests": [
+            {
+                "interest": "interest"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "10th Class"
+                },
+                "college": {
+                    "collegeName": "Aditya Talent School",
+                    "city": {
+                        "id": 132678,
+                        "name": "Kakinada"
+                    },
+                    "state": {
+                        "iso2": "AP",
+                        "name": "Andhra Pradesh"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "10th Class"
+                },
+                "job": {
+                    "job": "Student"
+                },
+                "experience": "Had fun",
+                "skills": [
+                    {
+                        "skillName": "Punctuality"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Socially Balanced"
+                },
+                "assistance": "Teachers helped a lot",
+                "motivation": "",
+                "suggestion": "Be very strong in the basics"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Competitive Programming"
+            },
+            {
+                "skillName": "Hindi"
+            }
+        ],
+        "advice": "Search for your passion and follow it",
+        "verified_by": null,
+        "owner": "6738fb33e4b77d031f1d6f35",
+        "createdAt": "2024-11-17T19:39:07.784Z",
+        "updatedAt": "2024-11-17T19:39:07.784Z"
+    },
+    {
+        "name": "Aryan Gupta",
+        "city": {
+            "id": 132679,
+            "name": "Delhi"
+        },
+        "address": "C-12, Model Town, New Delhi, 110009, India",
+        "state": {
+            "iso2": "DL",
+            "name": "Delhi"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "aryan.gupta@example.com",
+        "mobileNumber": "+91 81234 56789",
+        "personalWebsite": "personalLink2",
+        "socialNetworkLink": [
+            "socialLink3",
+            "socialLink4"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "OBC",
+        "economicStatus": "Upper Middle Class",
+        "background": "Urban",
+        "currentOccupation": "Software Engineer",
+        "currentSalary": 80000,
+        "interests": [
+            {
+                "interest": "Coding"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "M. Tech"
+                },
+                "college": {
+                    "collegeName": "IIT Delhi",
+                    "city": {
+                        "id": 132679,
+                        "name": "Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "M. Tech"
+                },
+                "job": {
+                    "job": "Software Engineer"
+                },
+                "experience": "Intense learning environment",
+                "skills": [
+                    {
+                        "skillName": "Python"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Independent"
+                },
+                "assistance": "Guidance from professors",
+                "motivation": "Passion for innovation",
+                "suggestion": "Keep pushing boundaries"
+            }
+        ],
+        "status": "Verified",
+        "skills": [
+            {
+                "skillName": "Python"
+            },
+            {
+                "skillName": "Teamwork"
+            }
+        ],
+        "advice": "Never stop learning and growing",
+        "verified_by": "admin",
+        "owner": "6738fb33e4b77d031f1d6f36",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 1",
+        "city": {
+            "id": 132600,
+            "name": "City 1"
+        },
+        "address": "Sample Address 1, City 1, State 1, 123450, Country 1",
+        "state": {
+            "iso2": "S1",
+            "name": "State 1"
+        },
+        "country": {
+            "iso2": "C1",
+            "name": "Country 1"
+        },
+        "email": "user1@example.com",
+        "mobileNumber": "+91 900000000",
+        "personalWebsite": "personalLink1",
+        "socialNetworkLink": [
+            "socialLink1a",
+            "socialLink1b"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "General",
+        "economicStatus": "Middle Class",
+        "background": "Urban",
+        "currentOccupation": "Engineer",
+        "currentSalary": 50000,
+        "interests": [
+            {
+                "interest": "Interest 1"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 1",
+                    "city": {
+                        "id": 132600,
+                        "name": "City 1"
+                    },
+                    "state": {
+                        "iso2": "S1",
+                        "name": "State 1"
+                    },
+                    "country": {
+                        "iso2": "C1",
+                        "name": "Country 1"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Engineer"
+                },
+                "experience": "Experience 1",
+                "skills": [
+                    {
+                        "skillName": "Skill 1"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 1",
+                "motivation": "Motivation 1",
+                "suggestion": "Suggestion 1"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 1"
+            }
+        ],
+        "advice": "Advice 1",
+        "verified_by": null,
+        "owner": "owner_id_1",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 2",
+        "city": {
+            "id": 132601,
+            "name": "City 2"
+        },
+        "address": "Sample Address 2, City 2, State 2, 123451, Country 2",
+        "state": {
+            "iso2": "S2",
+            "name": "State 2"
+        },
+        "country": {
+            "iso2": "C2",
+            "name": "Country 2"
+        },
+        "email": "user2@example.com",
+        "mobileNumber": "+91 900001000",
+        "personalWebsite": "personalLink2",
+        "socialNetworkLink": [
+            "socialLink2a",
+            "socialLink2b"
+        ],
+        "gender": "Female",
+        "religion": "Christian",
+        "caste": "SC",
+        "economicStatus": "Lower Class",
+        "background": "Rural",
+        "currentOccupation": "Teacher",
+        "currentSalary": 51000,
+        "interests": [
+            {
+                "interest": "Interest 2"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 2",
+                    "city": {
+                        "id": 132601,
+                        "name": "City 2"
+                    },
+                    "state": {
+                        "iso2": "S2",
+                        "name": "State 2"
+                    },
+                    "country": {
+                        "iso2": "C2",
+                        "name": "Country 2"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Teacher"
+                },
+                "experience": "Experience 2",
+                "skills": [
+                    {
+                        "skillName": "Skill 2"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 2",
+                "motivation": "Motivation 2",
+                "suggestion": "Suggestion 2"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 2"
+            }
+        ],
+        "advice": "Advice 2",
+        "verified_by": null,
+        "owner": "owner_id_2",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 3",
+        "city": {
+            "id": 132602,
+            "name": "City 3"
+        },
+        "address": "Sample Address 3, City 3, State 3, 123452, Country 3",
+        "state": {
+            "iso2": "S3",
+            "name": "State 3"
+        },
+        "country": {
+            "iso2": "C3",
+            "name": "Country 3"
+        },
+        "email": "user3@example.com",
+        "mobileNumber": "+91 900002000",
+        "personalWebsite": "personalLink3",
+        "socialNetworkLink": [
+            "socialLink3a",
+            "socialLink3b"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "SC",
+        "economicStatus": "Middle Class",
+        "background": "Urban",
+        "currentOccupation": "Engineer",
+        "currentSalary": 52000,
+        "interests": [
+            {
+                "interest": "Interest 3"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 3",
+                    "city": {
+                        "id": 132602,
+                        "name": "City 3"
+                    },
+                    "state": {
+                        "iso2": "S3",
+                        "name": "State 3"
+                    },
+                    "country": {
+                        "iso2": "C3",
+                        "name": "Country 3"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Engineer"
+                },
+                "experience": "Experience 3",
+                "skills": [
+                    {
+                        "skillName": "Skill 3"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 3",
+                "motivation": "Motivation 3",
+                "suggestion": "Suggestion 3"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 3"
+            }
+        ],
+        "advice": "Advice 3",
+        "verified_by": null,
+        "owner": "owner_id_3",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 4",
+        "city": {
+            "id": 132603,
+            "name": "City 4"
+        },
+        "address": "Sample Address 4, City 4, State 4, 123453, Country 4",
+        "state": {
+            "iso2": "S4",
+            "name": "State 4"
+        },
+        "country": {
+            "iso2": "C4",
+            "name": "Country 4"
+        },
+        "email": "user4@example.com",
+        "mobileNumber": "+91 900003000",
+        "personalWebsite": "personalLink4",
+        "socialNetworkLink": [
+            "socialLink4a",
+            "socialLink4b"
+        ],
+        "gender": "Female",
+        "religion": "Christian",
+        "caste": "General",
+        "economicStatus": "Lower Class",
+        "background": "Rural",
+        "currentOccupation": "Teacher",
+        "currentSalary": 53000,
+        "interests": [
+            {
+                "interest": "Interest 4"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 4",
+                    "city": {
+                        "id": 132603,
+                        "name": "City 4"
+                    },
+                    "state": {
+                        "iso2": "S4",
+                        "name": "State 4"
+                    },
+                    "country": {
+                        "iso2": "C4",
+                        "name": "Country 4"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Teacher"
+                },
+                "experience": "Experience 4",
+                "skills": [
+                    {
+                        "skillName": "Skill 4"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 4",
+                "motivation": "Motivation 4",
+                "suggestion": "Suggestion 4"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 4"
+            }
+        ],
+        "advice": "Advice 4",
+        "verified_by": null,
+        "owner": "owner_id_4",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 5",
+        "city": {
+            "id": 132604,
+            "name": "City 5"
+        },
+        "address": "Sample Address 5, City 5, State 5, 123454, Country 5",
+        "state": {
+            "iso2": "S5",
+            "name": "State 5"
+        },
+        "country": {
+            "iso2": "C5",
+            "name": "Country 5"
+        },
+        "email": "user5@example.com",
+        "mobileNumber": "+91 900004000",
+        "personalWebsite": "personalLink5",
+        "socialNetworkLink": [
+            "socialLink5a",
+            "socialLink5b"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "SC",
+        "economicStatus": "Middle Class",
+        "background": "Urban",
+        "currentOccupation": "Engineer",
+        "currentSalary": 54000,
+        "interests": [
+            {
+                "interest": "Interest 5"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 5",
+                    "city": {
+                        "id": 132604,
+                        "name": "City 5"
+                    },
+                    "state": {
+                        "iso2": "S5",
+                        "name": "State 5"
+                    },
+                    "country": {
+                        "iso2": "C5",
+                        "name": "Country 5"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Engineer"
+                },
+                "experience": "Experience 5",
+                "skills": [
+                    {
+                        "skillName": "Skill 5"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 5",
+                "motivation": "Motivation 5",
+                "suggestion": "Suggestion 5"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 5"
+            }
+        ],
+        "advice": "Advice 5",
+        "verified_by": null,
+        "owner": "owner_id_5",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 6",
+        "city": {
+            "id": 132605,
+            "name": "City 6"
+        },
+        "address": "Sample Address 6, City 6, State 6, 123455, Country 6",
+        "state": {
+            "iso2": "S6",
+            "name": "State 6"
+        },
+        "country": {
+            "iso2": "C6",
+            "name": "Country 6"
+        },
+        "email": "user6@example.com",
+        "mobileNumber": "+91 900005000",
+        "personalWebsite": "personalLink6",
+        "socialNetworkLink": [
+            "socialLink6a",
+            "socialLink6b"
+        ],
+        "gender": "Female",
+        "religion": "Christian",
+        "caste": "SC",
+        "economicStatus": "Lower Class",
+        "background": "Rural",
+        "currentOccupation": "Teacher",
+        "currentSalary": 55000,
+        "interests": [
+            {
+                "interest": "Interest 6"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 6",
+                    "city": {
+                        "id": 132605,
+                        "name": "City 6"
+                    },
+                    "state": {
+                        "iso2": "S6",
+                        "name": "State 6"
+                    },
+                    "country": {
+                        "iso2": "C6",
+                        "name": "Country 6"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Teacher"
+                },
+                "experience": "Experience 6",
+                "skills": [
+                    {
+                        "skillName": "Skill 6"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 6",
+                "motivation": "Motivation 6",
+                "suggestion": "Suggestion 6"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 6"
+            }
+        ],
+        "advice": "Advice 6",
+        "verified_by": null,
+        "owner": "owner_id_6",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 7",
+        "city": {
+            "id": 132606,
+            "name": "City 7"
+        },
+        "address": "Sample Address 7, City 7, State 7, 123456, Country 7",
+        "state": {
+            "iso2": "S7",
+            "name": "State 7"
+        },
+        "country": {
+            "iso2": "C7",
+            "name": "Country 7"
+        },
+        "email": "user7@example.com",
+        "mobileNumber": "+91 900006000",
+        "personalWebsite": "personalLink7",
+        "socialNetworkLink": [
+            "socialLink7a",
+            "socialLink7b"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "General",
+        "economicStatus": "Middle Class",
+        "background": "Urban",
+        "currentOccupation": "Engineer",
+        "currentSalary": 56000,
+        "interests": [
+            {
+                "interest": "Interest 7"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 7",
+                    "city": {
+                        "id": 132606,
+                        "name": "City 7"
+                    },
+                    "state": {
+                        "iso2": "S7",
+                        "name": "State 7"
+                    },
+                    "country": {
+                        "iso2": "C7",
+                        "name": "Country 7"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Engineer"
+                },
+                "experience": "Experience 7",
+                "skills": [
+                    {
+                        "skillName": "Skill 7"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 7",
+                "motivation": "Motivation 7",
+                "suggestion": "Suggestion 7"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 7"
+            }
+        ],
+        "advice": "Advice 7",
+        "verified_by": null,
+        "owner": "owner_id_7",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    },
+    {
+        "name": "Sample User 8",
+        "city": {
+            "id": 132607,
+            "name": "City 8"
+        },
+        "address": "Sample Address 8, City 8, State 8, 123457, Country 8",
+        "state": {
+            "iso2": "S8",
+            "name": "State 8"
+        },
+        "country": {
+            "iso2": "C8",
+            "name": "Country 8"
+        },
+        "email": "user8@example.com",
+        "mobileNumber": "+91 900007000",
+        "personalWebsite": "personalLink8",
+        "socialNetworkLink": [
+            "socialLink8a",
+            "socialLink8b"
+        ],
+        "gender": "Female",
+        "religion": "Christian",
+        "caste": "SC",
+        "economicStatus": "Lower Class",
+        "background": "Rural",
+        "currentOccupation": "Teacher",
+        "currentSalary": 57000,
+        "interests": [
+            {
+                "interest": "Interest 8"
+            }
+        ],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "college": {
+                    "collegeName": "College 8",
+                    "city": {
+                        "id": 132607,
+                        "name": "City 8"
+                    },
+                    "state": {
+                        "iso2": "S8",
+                        "name": "State 8"
+                    },
+                    "country": {
+                        "iso2": "C8",
+                        "name": "Country 8"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "B. Tech"
+                },
+                "job": {
+                    "job": "Teacher"
+                },
+                "experience": "Experience 8",
+                "skills": [
+                    {
+                        "skillName": "Skill 8"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Comfortable"
+                },
+                "assistance": "Assistance 8",
+                "motivation": "Motivation 8",
+                "suggestion": "Suggestion 8"
+            }
+        ],
+        "status": "Pending",
+        "skills": [
+            {
+                "skillName": "Skill 8"
+            }
+        ],
+        "advice": "Advice 8",
+        "verified_by": null,
+        "owner": "owner_id_8",
+        "createdAt": "2024-11-17T19:50:07.784Z",
+        "updatedAt": "2024-11-17T19:50:07.784Z"
+    }
+]

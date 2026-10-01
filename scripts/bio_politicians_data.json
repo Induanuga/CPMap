@@ -1,0 +1,591 @@
+[
+    {
+        "name": "Narendra Damodardas Modi",
+        "city": {
+            "id": 1,
+            "name": "Vadnagar"
+        },
+        "address": "7, Lok Kalyan Marg, New Delhi",
+        "state": {
+            "iso2": "GJ",
+            "name": "Gujarat"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "narendramodi123@gmail.com",
+        "mobileNumber": "+91 12345 67890",
+        "personalWebsite": "https://www.narendramodi.in/",
+        "socialNetworkLink": [
+            "https://twitter.com/narendramodi",
+            "https://www.facebook.com/narendramodi"
+        ],
+        "gender": "Male",
+        "religion": "Hinduism",
+        "caste": "Other Backward Class (OBC)",
+        "economicStatus": "High",
+        "background": "Politician",
+        "currentOccupation": "Prime Minister of India",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Arts in Political Science"
+                },
+                "college": {
+                    "collegeName": "Delhi University School of Open Learning",
+                    "city": {
+                        "id": 2,
+                        "name": "Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Master of Arts in Political Science"
+                },
+                "college": {
+                    "collegeName": "Gujarat University",
+                    "city": {
+                        "id": 3,
+                        "name": "Ahmedabad"
+                    },
+                    "state": {
+                        "iso2": "GJ",
+                        "name": "Gujarat"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Chief Minister of Gujarat"
+                },
+                "job": {
+                    "job": "Chief Minister"
+                },
+                "experience": "Leadership, Decision making, Crisis management",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Political Leadership",
+                "suggestion": "Positive development policies, Improve health and education sectors."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Prime Minister of India"
+                },
+                "job": {
+                    "job": "Prime Minister"
+                },
+                "experience": "National Leadership, Policy implementation, Diplomacy",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "National Leadership",
+                "suggestion": "Focus on healthcare and education, Strengthening foreign relations."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "National growth and prosperity.",
+        "verified_by": "60d621afe4b059d8eb68eadb"
+    },
+    {
+        "name": "Indira Priyadarshini Gandhi",
+        "city": {
+            "id": 4,
+            "name": "Allahabad"
+        },
+        "address": "Anand Bhavan, Allahabad, Uttar Pradesh, India",
+        "state": {
+            "iso2": "UP",
+            "name": "Uttar Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "info@indira.gandhi.org",
+        "mobileNumber": "+91 98765 43210",
+        "personalWebsite": "",
+        "socialNetworkLink": [
+            "https://www.facebook.com/IndiraGandhi",
+            "https://twitter.com/Indira_Gandhi"
+        ],
+        "gender": "Female",
+        "religion": "Hindu",
+        "caste": "Kashmiri Pandit",
+        "economicStatus": "High",
+        "background": "Political",
+        "currentOccupation": "Politician",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Modern School, Delhi"
+                },
+                "college": {
+                    "collegeName": "University of Oxford",
+                    "city": {
+                        "id": 5,
+                        "name": "Oxford"
+                    },
+                    "state": {
+                        "iso2": "UK",
+                        "name": "England"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Hostess and Accompanied Father on Foreign Trips (1947 - 1964)"
+                },
+                "job": {
+                    "job": "Political Assistant"
+                },
+                "experience": "Gained international exposure and developed political acumen.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Learn from father's political experiences.",
+                "suggestion": "Remain active in the political field."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Minister of Information and Broadcasting (1964 - 1966)"
+                },
+                "job": {
+                    "job": "Minister"
+                },
+                "experience": "Gained first-hand experience in legislative affairs.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Desire to serve in the executive wing.",
+                "suggestion": "Effective and transparent communication."
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Prime Minister of India (1966 - 1977, 1980 - 1984)"
+                },
+                "job": {
+                    "job": "Prime Minister"
+                },
+                "experience": "Gained leadership skill and experience.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "To implement policies that benefit the citizens of the country.",
+                "suggestion": "Need for continued learning and staying updated."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Never let the gender define the leadership potential.",
+        "verified_by": {}
+    },
+    {
+        "name": "Jawaharlal Nehru",
+        "city": {
+            "id": 6,
+            "name": "Allahabad"
+        },
+        "address": "Anand Bhavan, Allahabad, Uttar Pradesh, India",
+        "state": {
+            "iso2": "UP",
+            "name": "Uttar Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not Available",
+        "mobileNumber": "Not Available",
+        "personalWebsite": "Not Available",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Kashmiri Pandit",
+        "economicStatus": "Wealthy",
+        "background": "Jawaharlal Nehru was an Indian anti-colonial nationalist, secular humanist, social democrat, author and statesman.",
+        "currentOccupation": "Prime Minister of India (1947–1964)",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Honours degree in natural science"
+                },
+                "college": {
+                    "collegeName": "Trinity College, Cambridge",
+                    "city": {
+                        "id": 7,
+                        "name": "Cambridge"
+                    },
+                    "state": {
+                        "iso2": "CB",
+                        "name": "Cambridge"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Barrister"
+                },
+                "college": {
+                    "collegeName": "Inner Temple",
+                    "city": {
+                        "id": 8,
+                        "name": "London"
+                    },
+                    "state": {
+                        "iso2": "LD",
+                        "name": "London"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Education in United Kingdom"
+                },
+                "job": {
+                    "job": "Student"
+                },
+                "experience": "Politics, economics, history and literature. Trained in law.",
+                "skills": [
+                    {
+                        "skillName": "1"
+                    },
+                    {
+                        "skillName": "2"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Influenced by various intellectuals and authors.",
+                "suggestion": "Continuous learning and exposure to different cultures and ideas."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Leadership in Indian Nationalist Movement"
+                },
+                "job": {
+                    "job": "Leader"
+                },
+                "experience": "Organizing and leading mass movements.",
+                "skills": [
+                    {
+                        "skillName": "3"
+                    },
+                    {
+                        "skillName": "4"
+                    },
+                    {
+                        "skillName": "5"
+                    },
+                    {
+                        "skillName": "6"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Desire for India's Independence from British rule.",
+                "suggestion": "Maintain resilience and persist in the face of challenges."
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "Education is a powerful tool for personal development and nation building.",
+        "verified_by": null
+    },
+    {
+        "name": "Vallabhbhai Jhaverbhai Patel",
+        "city": {
+            "id": 9,
+            "name": "Ahmedabad"
+        },
+        "address": "N/A",
+        "state": {
+            "iso2": "GJ",
+            "name": "Gujarat"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 N/A",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [
+            "N/A"
+        ],
+        "gender": "Male",
+        "religion": "Hinduism",
+        "caste": "Patidar",
+        "economicStatus": "N/A",
+        "background": "Born in Nadiad, Gujarat and raised in the countryside of the state of Gujarat.",
+        "currentOccupation": "Politician and Barrister",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Barrister"
+                },
+                "college": {
+                    "collegeName": "Middle Temple",
+                    "city": {
+                        "id": 10,
+                        "name": "London"
+                    },
+                    "state": {
+                        "iso2": "LD",
+                        "name": "London"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": "Political",
+                "degree": {
+                    "degree": "Start of Political Career"
+                },
+                "job": {
+                    "job": "Politician"
+                },
+                "experience": "Organized peasants in non-violent civil disobedience against the British Raj.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Fight for independence from British Raj.",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": "Political",
+                "degree": {
+                    "degree": "First Deputy Prime Minister and Home Minister of India"
+                },
+                "job": {
+                    "job": "Deputy Prime Minister"
+                },
+                "experience": "Organised relief efforts for partition refugees.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Fight for independence from British Raj.",
+                "suggestion": "N/A"
+            }
+        ],
+        "status": "Expired",
+        "skills": [],
+        "advice": "N/A",
+        "verified_by": "N/A"
+    },
+    {
+        "name": "Atal Bihari Vajpayee",
+        "city": {
+            "id": 11,
+            "name": "Gwalior"
+        },
+        "address": "Gwalior, Madhya Pradesh, India",
+        "state": {
+            "iso2": "MP",
+            "name": "Madhya Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Unavailable",
+        "mobileNumber": "Unavailable",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Brahmin",
+        "economicStatus": "Middle class",
+        "background": "Politics",
+        "currentOccupation": "Politician",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Arts in Hindi, English and Sanskrit"
+                },
+                "college": {
+                    "collegeName": "Maharani Laxmi Bai Govt. College of Excellence",
+                    "city": {
+                        "id": 12,
+                        "name": "Gwalior"
+                    },
+                    "state": {
+                        "iso2": "MP",
+                        "name": "Madhya Pradesh"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Master of Arts in political science"
+                },
+                "college": {
+                    "collegeName": "DAV College",
+                    "city": {
+                        "id": 13,
+                        "name": "Kanpur"
+                    },
+                    "state": {
+                        "iso2": "UP",
+                        "name": "Uttar Pradesh"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Political Activist with Rashtriya Swayamsevak Sangh(RSS)"
+                },
+                "job": {
+                    "job": "Political Activist"
+                },
+                "experience": "Learned and developed organizing and leadership skills.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Nationalism.",
+                "suggestion": "Commit to causes you believe in."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Member of Parliament"
+                },
+                "job": {
+                    "job": "Member of Parliament"
+                },
+                "experience": "Improved political and diplomatic skills.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Serve the nation.",
+                "suggestion": "Stay inspired by your hunches."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Minister of External Affairs"
+                },
+                "job": {
+                    "job": "Minister"
+                },
+                "experience": "Enhanced understanding of international diplomacy.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Serving India on international platform.",
+                "suggestion": "Take on roles that challenge you."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Prime Minister"
+                },
+                "job": {
+                    "job": "Prime Minister"
+                },
+                "experience": "Leadership at the highest level in the country.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Desire to lead the nation.",
+                "suggestion": "Stay dedicated and persistent in tough times."
+            }
+        ],
+        "status": "Moderation pending",
+        "skills": [],
+        "advice": "Strive for good governance.",
+        "verified_by": null
+    }
+]

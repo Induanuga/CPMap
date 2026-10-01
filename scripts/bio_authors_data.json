@@ -1,0 +1,329 @@
+[
+    {
+        "name": "Rabindranath Tagore",
+        "city": {
+            "id": 1,
+            "name": "Calcutta"
+        },
+        "address": "Jorasanko mansion, Calcutta",
+        "state": {
+            "iso2": "WB",
+            "name": "West Bengal"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not available",
+        "mobileNumber": "Not available",
+        "personalWebsite": "Not available",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Brahmin",
+        "economicStatus": "Affluent",
+        "background": "Descendent of Kusharis, Pirali Brahmin from Calcutta with ancestral roots in Burdwan district and Jessore.",
+        "currentOccupation": "Poet, Writer, Playwright, Composer, Philosopher, Social reformer, Painter",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Self-educated"
+                },
+                "college": {
+                    "collegeName": "",
+                    "city": {
+                        "id": 1,
+                        "name": "Calcutta"
+                    },
+                    "state": {
+                        "iso2": "WB",
+                        "name": "West Bengal"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Debut in Literature"
+                },
+                "job": {
+                    "job": "Writer"
+                },
+                "experience": "",
+                "skills": [
+                    {
+                        "skillName": "Writing"
+                    },
+                    {
+                        "skillName": "Creativity"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "",
+                "suggestion": ""
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Nobel Prize in Literature"
+                },
+                "job": {
+                    "job": "Writer"
+                },
+                "experience": "",
+                "skills": [
+                    {
+                        "skillName": "Writing"
+                    },
+                    {
+                        "skillName": "Creativity"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "",
+                "suggestion": ""
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": null
+    },
+    {
+        "name": "Jawaharlal Nehru",
+        "city": {
+            "id": 2,
+            "name": "Allahabad"
+        },
+        "address": "Allahabad, Uttar Pradesh, India",
+        "state": {
+            "iso2": "UP",
+            "name": "Uttar Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not Available",
+        "mobileNumber": "Not Available",
+        "personalWebsite": "Not Available",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Kashmiri Pandit",
+        "economicStatus": "High",
+        "background": "Born into a Kashmiri Pandit family, well educated and politically active family. His father, Motilal Nehru was a prominent lawyer and mother, Swarup Rani Thussu came from a well-known family",
+        "currentOccupation": "Politician",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Honours degree in Natural Science"
+                },
+                "college": {
+                    "collegeName": "Trinity College, Cambridge",
+                    "city": {
+                        "id": 3,
+                        "name": "Cambridge"
+                    },
+                    "state": {
+                        "iso2": "CB",
+                        "name": "Cambridge"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Barrister"
+                },
+                "college": {
+                    "collegeName": "The Inner Temple",
+                    "city": {
+                        "id": 4,
+                        "name": "London"
+                    },
+                    "state": {
+                        "iso2": "LD",
+                        "name": "London"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Leadership in Indian National Congress"
+                },
+                "job": {
+                    "job": "Leader"
+                },
+                "experience": "He has learnt how to lead a national political party and co-ordinate the activities of independence.",
+                "skills": [
+                    {
+                        "skillName": "Leadership"
+                    },
+                    {
+                        "skillName": "Negotiation"
+                    },
+                    {
+                        "skillName": "Critical thinking"
+                    },
+                    {
+                        "skillName": "Public Speaking"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Demanding complete independence from the British rule.",
+                "suggestion": "Leverage political connections and maintain unity within the congress party."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Prime Minister of India"
+                },
+                "job": {
+                    "job": "Prime Minister"
+                },
+                "experience": "He has learnt how to govern a newly independent nation and make critical decisions for its growth.",
+                "skills": [
+                    {
+                        "skillName": "Political Administration"
+                    },
+                    {
+                        "skillName": "Diplomacy"
+                    },
+                    {
+                        "skillName": "Decision making"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Achieving India's progress as a modern nation.",
+                "suggestion": "Focus on economic, social, and political reforms."
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": null
+    },
+    {
+        "name": "Rasipuram Krishnaswami Iyer Narayanaswami",
+        "city": {
+            "id": 5,
+            "name": "Chennai"
+        },
+        "address": "Mysore, Karnataka, India",
+        "state": {
+            "iso2": "TN",
+            "name": "Tamil Nadu"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "",
+        "mobileNumber": "+91 00000 00000",
+        "personalWebsite": "",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Brahmin",
+        "economicStatus": "Affluent",
+        "background": "Comes from a traditional Tamil Brahmin family",
+        "currentOccupation": "Writer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor's degree"
+                },
+                "college": {
+                    "collegeName": "Maharaja College of Mysore",
+                    "city": {
+                        "id": 6,
+                        "name": "Mysore"
+                    },
+                    "state": {
+                        "iso2": "KA",
+                        "name": "Karnataka"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Begins Writing Career"
+                },
+                "job": {
+                    "job": "Writer"
+                },
+                "experience": "First venture into professional writing",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "",
+                "suggestion": ""
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Established Novelist"
+                },
+                "job": {
+                    "job": "Novelist"
+                },
+                "experience": "Notable publication success, growth as a writer",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "",
+                "suggestion": ""
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": null
+    }
+]

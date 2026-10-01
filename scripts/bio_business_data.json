@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Mukesh Dhirubhai Ambani",
+        "city": {
+            "id": 1,
+            "name": "Mumbai"
+        },
+        "address": "Antilia, South Mumbai",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "N/A",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [
+            "N/A"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "N/A",
+        "economicStatus": "Ultra High Net Worth",
+        "background": "Born in a Gujarati family in Aden, Yemen. Moved to Mumbai at a young age.",
+        "currentOccupation": "Chairman & Managing Director of Reliance Industries",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "BE in Chemical Engineering"
+                },
+                "college": {
+                    "collegeName": "Institute of Chemical Technology",
+                    "city": {
+                        "id": 1,
+                        "name": "Mumbai"
+                    },
+                    "state": {
+                        "iso2": "MH",
+                        "name": "Maharashtra"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Dropout from MBA"
+                },
+                "college": {
+                    "collegeName": "Stanford University",
+                    "city": {
+                        "id": 2,
+                        "name": "California"
+                    },
+                    "state": {
+                        "iso2": "CA",
+                        "name": "California"
+                    },
+                    "country": {
+                        "iso2": "US",
+                        "name": "United States"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Early Life and Education"
+                },
+                "job": {
+                    "job": "Student"
+                },
+                "experience": "N/A",
+                "skills": [
+                    {
+                        "skillName": "N/A"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "N/A",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Career and Entrepreneurship"
+                },
+                "job": {
+                    "job": "Entrepreneur"
+                },
+                "experience": "N/A",
+                "skills": [
+                    {
+                        "skillName": "N/A"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "N/A",
+                "suggestion": "N/A"
+            }
+        ],
+        "status": "Active",
+        "skills": [],
+        "advice": "N/A",
+        "verified_by": "N/A"
+    },
+    {
+        "name": "Ratan Naval Tata",
+        "city": {
+            "id": 3,
+            "name": "Mumbai"
+        },
+        "address": "Bombay House, 24, Homi Mody Street, Fort, Mumbai, Maharashtra 400001",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not Available",
+        "mobileNumber": "+91 xxxxx xxxxx",
+        "personalWebsite": "Not Available",
+        "socialNetworkLink": [
+            "Not Available"
+        ],
+        "gender": "Male",
+        "religion": "Parsi Zoroastrian",
+        "caste": "Not Applicable",
+        "economicStatus": "High",
+        "background": "Born into the Tata industrial family",
+        "currentOccupation": "Industrialist, Philanthropist, Former chairman of Tata Group",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor's Degree in Architecture"
+                },
+                "college": {
+                    "collegeName": "Cornell University College of Architecture",
+                    "city": {
+                        "id": 4,
+                        "name": "Ithaca"
+                    },
+                    "state": {
+                        "iso2": "NY",
+                        "name": "New York"
+                    },
+                    "country": {
+                        "iso2": "US",
+                        "name": "United States"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Chairmanship of Tata Group"
+                },
+                "job": {
+                    "job": "Chairman"
+                },
+                "experience": "Led the Tata Group into significant growth",
+                "skills": [
+                    {
+                        "skillName": "Leadership"
+                    },
+                    {
+                        "skillName": "Strategic Planning"
+                    },
+                    {
+                        "skillName": "Business Acumen"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To lead the company to new heights",
+                "suggestion": "Implemented a number of policies designed to consolidate power and streamlined operations."
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Investor"
+                },
+                "job": {
+                    "job": "Investor"
+                },
+                "experience": "Invested in numerous startups and companies",
+                "skills": [
+                    {
+                        "skillName": "Investment Analysis"
+                    },
+                    {
+                        "skillName": "Financial Strategy"
+                    },
+                    {
+                        "skillName": "Risk Management"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To leverage his wealth to support new businesses",
+                "suggestion": "Focused on both early and late-stage companies in India."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "Admin"
+    },
+    {
+        "name": "Azim Hashim Premji",
+        "city": {
+            "id": 5,
+            "name": "Bangalore"
+        },
+        "address": "Wipro Limited, Bangalore, India",
+        "state": {
+            "iso2": "KA",
+            "name": "Karnataka"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "n/a",
+        "mobileNumber": "+91 n/a",
+        "personalWebsite": "n/a",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Ismaili Muslim",
+        "caste": "n/a",
+        "economicStatus": "Billionaire",
+        "background": "Premji was born in Bombay, India in an Ismaili Muslim family from Gujarat. His father was a noted businessman and was known as Rice King of Burma.",
+        "currentOccupation": "Businessman, Philanthropist",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Science in Electrical Engineering"
+                },
+                "college": {
+                    "collegeName": "Stanford University",
+                    "city": {
+                        "id": 6,
+                        "name": "Stanford"
+                    },
+                    "state": {
+                        "iso2": "CA",
+                        "name": "California"
+                    },
+                    "country": {
+                        "iso2": "US",
+                        "name": "United States"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Entrepreneurship"
+                },
+                "job": {
+                    "job": "Entrepreneur"
+                },
+                "experience": "Diversified and grew Wipro from a vegetable oil company to a global leader in the software industry.",
+                "skills": [
+                    {
+                        "skillName": "Leadership"
+                    },
+                    {
+                        "skillName": "Strategic Planning"
+                    },
+                    {
+                        "skillName": "Business Development"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Took charge of family business after father's death. Recognized potential of IT industry in India.",
+                "suggestion": "n/a"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Philanthropy"
+                },
+                "job": {
+                    "job": "Philanthropist"
+                },
+                "experience": "Signed the Giving Pledge committing most of his wealth to philanthropy.",
+                "skills": [
+                    {
+                        "skillName": "Leadership"
+                    },
+                    {
+                        "skillName": "Strategic Planning"
+                    },
+                    {
+                        "skillName": "Public Speaking"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Belief that the privileged should contribute to creating a better world for the less privileged.",
+                "suggestion": "n/a"
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "n/a"
+    },
+    {
+        "name": "Lakshmi Niwas Mittal",
+        "city": {
+            "id": 7,
+            "name": "London"
+        },
+        "address": "18-19 Kensington Palace Gardens",
+        "state": {
+            "iso2": "",
+            "name": ""
+        },
+        "country": {
+            "iso2": "GB",
+            "name": "United Kingdom"
+        },
+        "email": "",
+        "mobileNumber": "",
+        "personalWebsite": "",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Marwari",
+        "economicStatus": "Affluent",
+        "background": "Business tycoon",
+        "currentOccupation": "Executive chairman of ArcelorMittal",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "B.Com"
+                },
+                "college": {
+                    "collegeName": "St. Xavier's College",
+                    "city": {
+                        "id": 8,
+                        "name": "Calcutta"
+                    },
+                    "state": {
+                        "iso2": "WB",
+                        "name": "West Bengal"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Starting out steel business"
+                },
+                "job": {
+                    "job": "Businessman"
+                },
+                "experience": "Business management, Steel production",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Steel production was curbed by the government in India, motivating him to start his own steel factory.",
+                "suggestion": "Need for entrepreneurial spirit, risk taking and vision."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Turning losses into profits"
+                },
+                "job": {
+                    "job": "Businessman"
+                },
+                "experience": "Restructuring, Modernizing, and streamlining a manufacturing facility",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Acquiring a state-owned loss making steel works in Trinidad and Tobago.",
+                "suggestion": "Need for business agility, management skills and vision."
+            }
+        ],
+        "status": "Public figure",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": null
+    },
+    {
+        "name": "Shiv Nadar",
+        "city": {
+            "id": 9,
+            "name": "Moolaipozhi"
+        },
+        "address": "Moolaipozhi village, Madras Presidency",
+        "state": {
+            "iso2": "TN",
+            "name": "Tamil Nadu"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "-",
+        "mobileNumber": "+91 - -",
+        "personalWebsite": "-",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Tamil",
+        "economicStatus": "Billionaire",
+        "background": "Businessman and philanthropist",
+        "currentOccupation": "Founder and Chairman of HCL Technologies",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Pre University Degree"
+                },
+                "college": {
+                    "collegeName": "The American College, Madurai",
+                    "city": {
+                        "id": 10,
+                        "name": "Madurai"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "B.E in Electrical and Electronics Engineering"
+                },
+                "college": {
+                    "collegeName": "PSG College of Technology",
+                    "city": {
+                        "id": 11,
+                        "name": "Coimbatore"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Career Start"
+                },
+                "job": {
+                    "job": "Employee"
+                },
+                "experience": "-",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "-",
+                "suggestion": "-"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Started own venture - Microcomp"
+                },
+                "job": {
+                    "job": "Entrepreneur"
+                },
+                "experience": "-",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "-",
+                "suggestion": "-"
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Expansion to International Market - Far East Computers"
+                },
+                "job": {
+                    "job": "Entrepreneur"
+                },
+                "experience": "-",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "-",
+                "suggestion": "-"
+            },
+            {
+                "stageType": 4,
+                "degree": {
+                    "degree": "Handover to Daughter"
+                },
+                "job": {
+                    "job": "Businessman"
+                },
+                "experience": "-",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "-",
+                "suggestion": "-"
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "-"
+    }
+]

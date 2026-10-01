@@ -1,0 +1,1394 @@
+[
+  {
+    "name": "Sunita Gupta",
+    "address": "456 Broadway St, Delhi, India",
+    "email": "sunitagupta@example.com",
+    "mobileNumber": "9123456780",
+    "personalWebsite": "www.sunitagupta.com",
+    "socialNetworkLink": [
+      "www.twitter.com/sunitagupta",
+      "www.linkedin.com/sunitagupta"
+    ],
+    "gender": "Female",
+    "religion": "Jainism",
+    "caste": "Vaishya",
+    "economicStatus": "Upper middle class",
+    "background": "Freelance Writer",
+    "currentOccupation": "Author",
+    "education": [
+      {
+        "degree": "Bachelor of Arts in English",
+        "institution": "Delhi University",
+        "from": "2000-07-01",
+        "to": "2003-05-31",
+        "institutionAddress": "Delhi University, Delhi - 110007"
+      },
+      {
+        "degree": "Master of Arts in Creative Writing",
+        "institution": "University of Oxford",
+        "from": "2003-09-01",
+        "to": "2005-06-30",
+        "institutionAddress": "University of Oxford, Oxford OX1 2JD, United Kingdom"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Freelancer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Content Writing",
+            "effort": "High"
+          },
+          {
+            "skill": "Copywriting",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Basics of Writing Profession",
+        "options": "Could choose area of interest",
+        "suggestions": "Improve creative writing skills"
+      },
+      {
+        "stageName": "Author",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Novel Writing",
+            "effort": "High"
+          },
+          {
+            "skill": "Biography Writing",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Advanced writing techniques",
+        "options": "Could switch genres",
+        "suggestions": "Increase reading for more exposure"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Anita Krishna",
+    "address": "789 Park Ave, Bangalore, India",
+    "email": "anitakrishna@example.com",
+    "mobileNumber": "9876543321",
+    "personalWebsite": "www.anitakrishna.com",
+    "socialNetworkLink": [
+      "www.facebook.com/anitakrishna",
+      "www.linkedin.com/anitakrishna"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Kshatriya",
+    "economicStatus": "Upper class",
+    "background": "Entrepreneur",
+    "currentOccupation": "CEO of Start-up",
+    "education": [
+      {
+        "degree": "Bachelor of Commerce",
+        "institution": "Bangalore University",
+        "from": "2001-06-01",
+        "to": "2004-05-31",
+        "institutionAddress": "Jnana Bharathi, Bengaluru, Karnataka 560056"
+      },
+      {
+        "degree": "Master of Business Administration",
+        "institution": "Harvard Business School",
+        "from": "2005-09-01",
+        "to": "2007-06-30",
+        "institutionAddress": "Boston, MA 02163, United States"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Entrepreneur",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Business Strategy",
+            "effort": "High"
+          },
+          {
+            "skill": "Sales and Marketing",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Enterprise management basics",
+        "options": "Start-up expansion and diversification",
+        "suggestions": "Adopt latest technologies"
+      },
+      {
+        "stageName": "CEO",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Decision Making",
+            "effort": "High"
+          },
+          {
+            "skill": "Communication and Leadership",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Leading the team and business",
+        "options": "Venture into new industrial sectors",
+        "suggestions": "Focus on sustainable business model"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Sarita Roy",
+    "address": "56 Vivekanand Marg, Kolkata, India",
+    "email": "saritaroy@example.com",
+    "mobileNumber": "8459872630",
+    "personalWebsite": "www.saritaroy.com",
+    "socialNetworkLink": [
+      "www.twitter.com/saritaroy",
+      "www.linkedin.com/saritaroy"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Baidya",
+    "economicStatus": "Middle class",
+    "background": "Human Resource Manager",
+    "currentOccupation": "Corporate Trainer",
+    "education": [
+      {
+        "degree": "Bachelor in Business Administration",
+        "institution": "University of Calcutta",
+        "from": "2003-07-01",
+        "to": "2006-05-31",
+        "institutionAddress": "University of Calcutta, Kolkata, West Bengal - 700073"
+      },
+      {
+        "degree": "Master in Human Resource Management",
+        "institution": "Xavier's Institute",
+        "from": "2006-09-01",
+        "to": "2008-06-30",
+        "institutionAddress": "Xavier's Institute, Mumbai, Maharashtra - 400001"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "HR Manager",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Recruitment",
+            "effort": "High"
+          },
+          {
+            "skill": "Employee Engagement",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Workforce management",
+        "options": "Could choose different industries",
+        "suggestions": "Improve negotiation skills"
+      },
+      {
+        "stageName": "Corporate Trainer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Training and Development",
+            "effort": "High"
+          },
+          {
+            "skill": "Motivation Skills",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Leadership and Motivation techniques",
+        "options": "Could offer independent consultancy",
+        "suggestions": "Keep updating with recent market trends"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Preeti Singh",
+    "address": "34, Central Road, Jaipur, India",
+    "email": "preetisingh@example.com",
+    "mobileNumber": "9823456790",
+    "personalWebsite": null,
+    "socialNetworkLink": [
+      "www.facebook.com/preeti_singh",
+      "www.linkedin.com/preeti_singh"
+    ],
+    "gender": "Female",
+    "religion": "Sikh",
+    "caste": "Jat",
+    "economicStatus": "Upper middle class",
+    "background": "Fashion Designer",
+    "currentOccupation": "Owns a Boutique",
+    "education": [
+      {
+        "degree": "Bachelor of Fashion Technology",
+        "institution": "National Institute of Design",
+        "from": "2009-07-01",
+        "to": "2012-05-31",
+        "institutionAddress": "National Institute of Design, Ahmedabad, Gujarat - 380007"
+      },
+      {
+        "degree": "Master in Luxury Brand Management",
+        "institution": "London College of Fashion",
+        "from": "2013-09-01",
+        "to": "2015-06-30",
+        "institutionAddress": "20 John Princes St, London W1G 0BJ, United Kingdom"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Fashion Designer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Sketching",
+            "effort": "High"
+          },
+          {
+            "skill": "Stitching",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Technical skills and creativity",
+        "options": "Could start own label",
+        "suggestions": "Keep up with fashion trends"
+      },
+      {
+        "stageName": "Boutique Owner",
+        "stageType": "Business",
+        "skills": [
+          {
+            "skill": "Management",
+            "effort": "High"
+          },
+          {
+            "skill": "Marketing",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Brand management and leadership",
+        "options": "Could expand to other locations",
+        "suggestions": "Focus on digital marketing"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Javed Iqbal",
+    "address": "19 Park Street, Kolkata, India",
+    "email": "javediqbal@example.com",
+    "mobileNumber": "9765234018",
+    "personalWebsite": "www.javediqbal.com",
+    "socialNetworkLink": [
+      "www.twitter.com/javediqbal",
+      "www.linkedin.com/javediqbal"
+    ],
+    "gender": "Male",
+    "religion": "Islam",
+    "caste": "Not applicable",
+    "economicStatus": "Lower middle class",
+    "background": "Teacher",
+    "currentOccupation": "Principal",
+    "education": [
+      {
+        "degree": "Bachelor of Education",
+        "institution": "Calcutta University",
+        "from": "1995-07-01",
+        "to": "1999-05-31",
+        "institutionAddress": "Senate House, 87/1 College St, Kolkata, West Bengal - 700073"
+      },
+      {
+        "degree": "Master of Education",
+        "institution": "Calcutta University",
+        "from": "1999-09-01",
+        "to": "2001-06-30",
+        "institutionAddress": "Senate House, 87/1 College St, Kolkata, West Bengal - 700073"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Teacher",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Communication",
+            "effort": "High"
+          },
+          {
+            "skill": "Student Counselling",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Plan and deliver lessons effectively",
+        "options": "Could pursue further education",
+        "suggestions": "Strengthen student-teacher relationships"
+      },
+      {
+        "stageName": "Principal",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Leadership",
+            "effort": "High"
+          },
+          {
+            "skill": "Administration",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Manage and direct operations of school",
+        "options": "Could initiate educational programs",
+        "suggestions": "Keep enhancing the curriculum"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Karun Sharma",
+    "address": "100 Gandhi Road, Ahmedabad, India",
+    "email": "karunsharma@example.com",
+    "mobileNumber": "8989236720",
+    "personalWebsite": "www.karunsharma.com",
+    "socialNetworkLink": [
+      "www.facebook.com/karunsharma",
+      "www.linkedin.com/karunsharma"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Prajapati",
+    "economicStatus": "Middle class",
+    "background": "Graphic Designer",
+    "currentOccupation": "Lead Graphic Designer",
+    "education": [
+      {
+        "degree": "Bachelor of Design",
+        "institution": "National Institute of Design",
+        "from": "2010-07-01",
+        "to": "2014-05-31",
+        "institutionAddress": "NID Campus, Ahmedabad, Gujarat - 380007"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Graphic Designer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Adobe Photoshop",
+            "effort": "High"
+          },
+          {
+            "skill": "Illustrator",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Graphic designing basics",
+        "options": "Could work with various industries",
+        "suggestions": "Improvement in branding techniques"
+      },
+      {
+        "stageName": "Lead Graphic Designer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Team Management",
+            "effort": "High"
+          },
+          {
+            "skill": "Client Communication",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Leadership and client servicing",
+        "options": "Could start Freelancing",
+        "suggestions": "Keep updating with recent design trends"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Divya Patel",
+    "address": "789 Central Drive, Pune, India",
+    "email": "divyapatel@example.com",
+    "mobileNumber": "9876054321",
+    "personalWebsite": "www.divyapatel.com",
+    "socialNetworkLink": [
+      "www.facebook.com/divyapatel",
+      "www.linkedin.com/divyapatel"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Patel",
+    "economicStatus": "Upper class",
+    "background": "Chartered Accountant",
+    "currentOccupation": "Financial Consultant",
+    "education": [
+      {
+        "degree": "Bachelor of Commerce",
+        "institution": "University of Pune",
+        "from": "2000-07-01",
+        "to": "2003-05-31",
+        "institutionAddress": "University of Pune, Pune - 411007"
+      },
+      {
+        "degree": "Chartered Accountant",
+        "institution": "The Institute of Chartered Accountants of India",
+        "from": "2003-06-01",
+        "to": "2006-06-30",
+        "institutionAddress": "ICAI Bhawan, Indraprastha Marg, New Delhi - 110002"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Chartered Accountant",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Accounting",
+            "effort": "High"
+          },
+          {
+            "skill": "Finance",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Basics of Accounting Profession",
+        "options": "Could choose specialization",
+        "suggestions": "Improve knowledge of tax laws"
+      },
+      {
+        "stageName": "Financial Consultant",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Financial Planning",
+            "effort": "High"
+          },
+          {
+            "skill": "Auditing",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Financial advising and consultation",
+        "options": "Could offer independent services",
+        "suggestions": "Stay updated with changing regulations"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Sunil Mehta",
+    "address": "56 Joy Villa, Gurgaon, India",
+    "email": "sunilmehta@example.com",
+    "mobileNumber": "9898761230",
+    "personalWebsite": "www.sunilmehta.com",
+    "socialNetworkLink": [
+      "www.facebook.com/sunilmehta",
+      "www.linkedin.com/sunilmehta"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Agarwal",
+    "economicStatus": "Upper middle class",
+    "background": "Architect",
+    "currentOccupation": "Senior Architect",
+    "education": [
+      {
+        "degree": "Bachelor of Architecture",
+        "institution": "School of Planning and Architecture",
+        "from": "2004-07-01",
+        "to": "2009-05-31",
+        "institutionAddress": "4 Block B, Indraprastha Estate, New Delhi, Delhi 110002"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Junior Architect",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Design Development",
+            "effort": "High"
+          },
+          {
+            "skill": "Client Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Basic understanding of architectural design",
+        "options": "Could choose area of specialisation",
+        "suggestions": "Developing personal style"
+      },
+      {
+        "stageName": "Senior Architect",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Project Management",
+            "effort": "High"
+          },
+          {
+            "skill": "Strategic Planning",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Managing large scale projects",
+        "options": "Could start own architectural firm",
+        "suggestions": "Continued personal and professional development"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Surya Pratap",
+    "address": "21, Manoj Apartments, Hyderabad, India",
+    "email": "suryapratap@example.com",
+    "mobileNumber": "9870953214",
+    "personalWebsite": "www.suryapratap.com",
+    "socialNetworkLink": [
+      "www.facebook.com/suryapratap",
+      "www.linkedin.com/suryapratap"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Reddy",
+    "economicStatus": "Upper middle class",
+    "background": "Bank Manager",
+    "currentOccupation": "Regional Manager",
+    "education": [
+      {
+        "degree": "Bachelor of Business Administration",
+        "institution": "Osmania University",
+        "from": "2000-07-01",
+        "to": "2003-05-31",
+        "institutionAddress": "Osmania University Campus Hyderabad, Telangana - 500007"
+      },
+      {
+        "degree": "Master of Business Administration",
+        "institution": "Indian Institute of Management",
+        "from": "2004-09-01",
+        "to": "2006-06-30",
+        "institutionAddress": "Bannerghatta Rd, Bilekahalli Indian Institute Of Management Bangalore"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Bank Manager",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Finance Management",
+            "effort": "High"
+          },
+          {
+            "skill": "Customer Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Understanding and managing bank operations",
+        "options": "Could shift to operations",
+        "suggestions": "Improve leadership skills"
+      },
+      {
+        "stageName": "Regional Manager",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Strategy Planning",
+            "effort": "High"
+          },
+          {
+            "skill": "Performance Evaluation",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Overseeing managing branches in a region",
+        "options": "Could shift to corporate level",
+        "suggestions": "Focus on personnel development"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Mohit Chawla",
+    "address": "56 Janpath Street, Chandigarh, India",
+    "email": "mohitchawla@example.com",
+    "mobileNumber": "8103456780",
+    "personalWebsite": "www.mohitchawla.com",
+    "socialNetworkLink": [
+      "www.twitter.com/mohitchawla",
+      "www.linkedin.com/mohitchawla"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Khatri",
+    "economicStatus": "Middle class",
+    "background": "Civil Engineer",
+    "currentOccupation": "Structural Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Civil Engineering",
+        "institution": "Punjab Engineering College",
+        "from": "2001-07-01",
+        "to": "2005-05-31",
+        "institutionAddress": "Punjab Engineering College, Chandigarh, Punjab - 160012"
+      },
+      {
+        "degree": "Master in Structural Engineering",
+        "institution": "IIT Delhi",
+        "from": "2005-09-01",
+        "to": "2007-06-30",
+        "institutionAddress": "Indian Institute of Technology Delhi, Hauz Khas, New Delhi, Delhi - 110016"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Civil Engineer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Design & Construction",
+            "effort": "High"
+          },
+          {
+            "skill": "Project Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Industrial Construction",
+        "options": "Specialize in a particular sector",
+        "suggestions": "Get experience in infrastructure projects"
+      },
+      {
+        "stageName": "Structural Engineer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Structural Analysis",
+            "effort": "High"
+          },
+          {
+            "skill": "Skyscraper Construction",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Construction of high-rise buildings",
+        "options": "Diversify into bridge construction",
+        "suggestions": "Keep updating with latest construction techniques"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Kiran Nair",
+    "address": "132 Marine Drive, Kochi, India",
+    "email": "kirannair@example.com",
+    "mobileNumber": "9812345670",
+    "personalWebsite": "www.kirannair.com",
+    "socialNetworkLink": [
+      "www.instagram.com/kirannair",
+      "www.linkedin.com/kirannair"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Nair",
+    "economicStatus": "Middle class",
+    "background": "Software Engineer",
+    "currentOccupation": "Senior Software Developer",
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science",
+        "institution": "Cochin University of Science and Technology",
+        "from": "2007-07-01",
+        "to": "2011-05-31",
+        "institutionAddress": "Cochin University of Science and Technology, Kochi, Kerala - 682022"
+      },
+      {
+        "degree": "Master of Technology in Artificial Intelligence",
+        "institution": "Indian Institute of Technology, Madras",
+        "from": "2011-09-01",
+        "to": "2013-06-30",
+        "institutionAddress": "Indian Institute of Technology Madras, Chennai, Tamil Nadu - 600036"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Software Engineer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Java",
+            "effort": "High"
+          },
+          {
+            "skill": "Data Structures",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Arithmetic operations in coding",
+        "options": "Python, C++ coding to be learned",
+        "suggestions": "Increase the network within the IT industry"
+      },
+      {
+        "stageName": "Senior Software Developer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Python",
+            "effort": "High"
+          },
+          {
+            "skill": "Project Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Big data management and Cloud computing",
+        "options": "Can shift to product management",
+        "suggestions": "Development of leadership skills required"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Radha Krishnan",
+    "address": "Flat no 10, Sunshine apartments, Bangalore, India",
+    "email": "radhakrishnan@example.com",
+    "mobileNumber": "9889765432",
+    "personalWebsite": "www.radhakrishnan.com",
+    "socialNetworkLink": [
+      "www.facebook.com/radhakris",
+      "www.linkedin.com/radhakris"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Upper middle class",
+    "background": "Software Developer",
+    "currentOccupation": "Senior Software Developer",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering in Information Technology",
+        "institution": "Visvesvaraya Technological University",
+        "from": "2010-07-01",
+        "to": "2014-06-30",
+        "institutionAddress": "Visvesvaraya Technological University, Belgaum, Karnataka - 590018"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Software Developer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Java",
+            "effort": "High"
+          },
+          {
+            "skill": "Spring Boot",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Understanding of Software Development Life Cycle",
+        "options": "Could switch to data science",
+        "suggestions": "Learn more programming languages"
+      },
+      {
+        "stageName": "Senior Software Developer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Microservices Design",
+            "effort": "High"
+          },
+          {
+            "skill": "Multithreading",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Managing team and Handling larger project",
+        "options": "Could shift to Cloud computing",
+        "suggestions": "Enhancement of project management skills"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Anurag Diwan",
+    "address": "56, Ambience Greens, Gandhinagar, Gujarat, India",
+    "email": "anuragdiwan@example.com",
+    "mobileNumber": "9869301234",
+    "personalWebsite": "www.anuragdiwan.com",
+    "socialNetworkLink": [
+      "www.facebook.com/anurag.diwan",
+      "www.linkedin.com/anuragdiwan"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Upper class",
+    "background": "Company Secretary",
+    "currentOccupation": "Company Law Advisor",
+    "education": [
+      {
+        "degree": "Company Secretary",
+        "institution": "Institute of Company Secretaries of India",
+        "from": "1990-02-01",
+        "to": "1993-02-28",
+        "institutionAddress": "ICSI House, 22, Lodhi Rd, Institutional Area,  Lodi Colony, New Delhi - 110003"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Company Secretary",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Corporate Laws",
+            "effort": "High"
+          },
+          {
+            "skill": "Legal Drafting",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Managing legal aspects of the company",
+        "options": "Getting associated with a law firm",
+        "suggestions": "Constant update on the laws"
+      },
+      {
+        "stageName": "Company Law Advisor",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Laws Consultation",
+            "effort": "High"
+          },
+          {
+            "skill": "Compliance Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Providing advice and handling laws for business",
+        "options": "Could start own advisory firm",
+        "suggestions": "Developing strong network"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Geetha Madhavan",
+    "address": "23, Lotus Colony, Chennai, India",
+    "email": "geethamadhavan@example.com",
+    "mobileNumber": "8765432109",
+    "personalWebsite": "www.geethamadhavan.com",
+    "socialNetworkLink": [
+      "www.facebook.com/geethamadhavan",
+      "www.linkedin.com/geethamadhavan"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Middle class",
+    "background": "Biochemist",
+    "currentOccupation": "Scientist",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Biochemistry",
+        "institution": "Madras University",
+        "from": "2002-07-01",
+        "to": "2005-05-31",
+        "institutionAddress": "University of Madras, South Beach Road, opposite Marina Beach, Chepauk, Chennai, Tamil Nadu - 600005"
+      },
+      {
+        "degree": "PhD in Biochemistry",
+        "institution": "Indian Institute of Science",
+        "from": "2007-09-01",
+        "to": "2013-06-30",
+        "institutionAddress": "Indian Institute of Science, Bangalore, Karnataka - 560012"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Biochemist",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Lab Experimentation",
+            "effort": "High"
+          },
+          {
+            "skill": "Data Analysis",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Application of biochemical knowledge in lab setups",
+        "options": "Could move to pharmacology",
+        "suggestions": "Gaining more practical experience"
+      },
+      {
+        "stageName": "Scientist",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Research & Development",
+            "effort": "High"
+          },
+          {
+            "skill": "Project Leadership",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Contributing to scientific advancements",
+        "options": "Could lead a larger research project",
+        "suggestions": "Stay updated with new biochemical developments"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Seema Gambhir",
+    "address": "782, Sunrise Apartments, Nagpur, India",
+    "email": "seemagambhir@example.com",
+    "mobileNumber": "9845612073",
+    "personalWebsite": "www.seemagambhir.com",
+    "socialNetworkLink": [
+      "www.facebook.com/seemagambhir",
+      "www.linkedin.com/seemagambhir"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Sindhi",
+    "economicStatus": "Upper middle class",
+    "background": "Fashion Designer",
+    "currentOccupation": "Senior Fashion Designer",
+    "education": [
+      {
+        "degree": "Bachelor of Fashion Technology",
+        "institution": "National Institute of Fashion Technology",
+        "from": "2005-07-01",
+        "to": "2009-05-31",
+        "institutionAddress": "NIFT Mumbai, Kharghar, Navi Mumbai - 410210"
+      },
+      {
+        "degree": "Master of Design",
+        "institution": "National Institute of Design",
+        "from": "2010-07-01",
+        "to": "2012-05-31",
+        "institutionAddress": "National Institute of Design, Paldi, Ahmedabad - 380007"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Fashion Designer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Fashion Sketching",
+            "effort": "High"
+          },
+          {
+            "skill": "Innovation",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Latest trends and fabric usability",
+        "options": "Could collaborates with top fashion labels",
+        "suggestions": "Active participation in fashion shows"
+      },
+      {
+        "stageName": "Senior Fashion Designer",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Communication",
+            "effort": "High"
+          },
+          {
+            "skill": "Team Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Leadership and better craftsmanship",
+        "options": "Launch own collection",
+        "suggestions": "Enhance global fashion knowledge"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Vikram Verma",
+    "address": "456 Green Park, New Delhi, India",
+    "email": "vikramverma@example.com",
+    "mobileNumber": "9819001234",
+    "personalWebsite": "www.vikramvatma.com",
+    "socialNetworkLink": [
+      "www.facebook.com/vikramverma",
+      "www.linkedin.com/vikramverma"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Upper class",
+    "background": "Oncologist",
+    "currentOccupation": "Senior Oncologist",
+    "education": [
+      {
+        "degree": "MBBS",
+        "institution": "AIIMS",
+        "from": "1996-07-01",
+        "to": "2001-06-30",
+        "institutionAddress": "AIIMS, Ansari Nagar, New Delhi - 110029"
+      },
+      {
+        "degree": "MD (Medicine)",
+        "institution": "AIIMS",
+        "from": "2002-07-01",
+        "to": "2005-06-30",
+        "institutionAddress": "AIIMS, Ansari Nagar, New Delhi - 110029"
+      },
+      {
+        "degree": "DM (Oncology)",
+        "institution": "AIIMS",
+        "from": "2006-07-01",
+        "to": "2009-06-30",
+        "institutionAddress": "AIIMS, Ansari Nagar, New Delhi - 110029"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Oncologist",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Patient Care",
+            "effort": "High"
+          },
+          {
+            "skill": "Diagnosis",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Cancer treatment and diagnosis",
+        "options": "Could specialize in a specific cancer",
+        "suggestions": "Participation in cancer research"
+      },
+      {
+        "stageName": "Senior Oncologist",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Advanced Therapy",
+            "effort": "High"
+          },
+          {
+            "skill": "Leading a Team",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Advanced cancer treatments and leading a team",
+        "options": "Heading a cancer department",
+        "suggestions": "Continue education in latest treatments"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Arjun Patel",
+    "address": "6, Green Meadows, Ahmedabad, India",
+    "email": "arjunpatel@example.com",
+    "mobileNumber": "9879081720",
+    "personalWebsite": "www.arjunpatel.com",
+    "socialNetworkLink": [
+      "www.facebook.com/arjunpatel",
+      "www.linkedin.com/arjunpatel"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Patel",
+    "economicStatus": "Upper middle class",
+    "background": "Chartered Accountant",
+    "currentOccupation": "Finance Manager",
+    "education": [
+      {
+        "degree": "Chartered Accountant",
+        "institution": "The Institute of Chartered Accountants of India",
+        "from": "2005-01-01",
+        "to": "2008-12-30",
+        "institutionAddress": "A-29, Sector-62, Noida - 201309"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Chartered Accountant",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Accounts Management",
+            "effort": "High"
+          },
+          {
+            "skill": "Audit",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Dealing with accounts of various firms",
+        "options": "Could switch to investment banking",
+        "suggestions": "Specialization in a particular sector"
+      },
+      {
+        "stageName": "Finance Manager",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Financial Planning",
+            "effort": "High"
+          },
+          {
+            "skill": "Budget Management",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Managing financial operations in a company",
+        "options": "Could aspire for CFO position",
+        "suggestions": "Strengthening analytical skills"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Rohit Deshmukh",
+    "address": "96, Vasant Vihar, Thane, Maharashtra, India",
+    "email": "rohitdeshmukh@example.com",
+    "mobileNumber": "9898123456",
+    "personalWebsite": "www.rohitdeshmukh.com",
+    "socialNetworkLink": [
+      "www.facebook.com/rohitdeshmukh",
+      "www.linkedin.com/rohitdeshmukh"
+    ],
+    "gender": "Male",
+    "religion": "Hindu",
+    "caste": "Maratha",
+    "economicStatus": "Upper middle class",
+    "background": "Veterinarian",
+    "currentOccupation": "Senior Veterinarian",
+    "education": [
+      {
+        "degree": "Bachelor of Veterinary Science & Animal Husbandry",
+        "institution": "Bombay Veterinary College",
+        "from": "2005-07-01",
+        "to": "2010-05-31",
+        "institutionAddress": "Bombay Veterinary College, Parel, Mumbai, Maharashtra - 400012"
+      },
+      {
+        "degree": "Master of Veterinary Science in Surgery",
+        "institution": "Indian Veterinary Research Institute",
+        "from": "2011-09-01",
+        "to": "2013-08-31",
+        "institutionAddress": "Indian Veterinary Research Institute, Izatnagar, Bareilly, Uttar Pradesh - 243122"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Veterinarian",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Pet Care",
+            "effort": "High"
+          },
+          {
+            "skill": "Surgery",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Handling and treating different types of animals",
+        "options": "Could specialize in a particular species",
+        "suggestions": "Increase the visit at different clinics to underscore experience"
+      },
+      {
+        "stageName": "Senior Veterinarian",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Critical Condition Handling",
+            "effort": "High"
+          },
+          {
+            "skill": "Team Leadership",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Managing a clinic and leading a team",
+        "options": "Could move to veterinary research",
+        "suggestions": "Keep up to date with latest treatment methodologies"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Lalita Rani",
+    "address": "Flat no 238, Pebble Beach, Vishakapatnam, Andhra Pradesh, India",
+    "email": "lalitarani@example.com",
+    "mobileNumber": "9956789012",
+    "personalWebsite": "www.lalitarani.com",
+    "socialNetworkLink": [
+      "www.facebook.com/lalitamishra",
+      "www.linkedin.com/lalitamishra"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Brahmin",
+    "economicStatus": "Middle class",
+    "background": "Human Resources",
+    "currentOccupation": "Senior HR Manager",
+    "education": [
+      {
+        "degree": "Bachelor of Business Administration",
+        "institution": "Andhra University",
+        "from": "2001-07-01",
+        "to": "2004-06-30",
+        "institutionAddress": "Andhra University, Waltair Junction, Visakhapatnam, Andhra Pradesh - 530003"
+      },
+      {
+        "degree": "Master of Business Administration in HR",
+        "institution": "IIM Bangalore",
+        "from": "2005-09-01",
+        "to": "2007-06-30",
+        "institutionAddress": "Indian Institute of Management Bangalore, Bannerghatta Road, Bengaluru, Karnataka - 560076"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Human Resource Specialist",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Recruitment & Selection",
+            "effort": "High"
+          },
+          {
+            "skill": "Performance Appraisal",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Managing workforce in a company",
+        "options": "Switch to strategic roles",
+        "suggestions": "Strengthening legal knowledge related to HR"
+      },
+      {
+        "stageName": "Senior HR Manager",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Strategy",
+            "effort": "High"
+          },
+          {
+            "skill": "Leadership",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Driving HR policies and leading HR team",
+        "options": "Could aim for HR director role",
+        "suggestions": "Developing a strong network within the industry"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  },
+  {
+    "name": "Sarika Mehra",
+    "address": "795 Green Park, Hyderabad, India",
+    "email": "sarikamehra@example.com",
+    "mobileNumber": "9863542170",
+    "personalWebsite": "www.sarikamehra.com",
+    "socialNetworkLink": [
+      "www.facebook.com/sarikamehra",
+      "www.linkedin.com/sarikamehra"
+    ],
+    "gender": "Female",
+    "religion": "Hindu",
+    "caste": "Kshatriya",
+    "economicStatus": "Upper middle class",
+    "background": "Physics",
+    "currentOccupation": "Professor",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Physics",
+        "institution": "Delhi University",
+        "from": "1987-06-01",
+        "to": "1990-05-31",
+        "institutionAddress": "Delhi University, Delhi - 110007"
+      },
+      {
+        "degree": "PhD in Quantum Physics",
+        "institution": "Indian Institute of Science Education and Research, Kolkata ",
+        "from": "1992-09-01",
+        "to": "1997-06-30",
+        "institutionAddress": "Indian Institute of Science Education and Research Kolkata, Mohanpur - 741246, West Bengal"
+      }
+    ],
+    "stages": [
+      {
+        "stageName": "Research Associate",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Research",
+            "effort": "High"
+          },
+          {
+            "skill": "Data Analysis",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Understanding the principles of Quantum Physics",
+        "options": "Could switch to industrial research",
+        "suggestions": "Publications and Patents"
+      },
+      {
+        "stageName": "Professor",
+        "stageType": "Work",
+        "skills": [
+          {
+            "skill": "Teaching",
+            "effort": "High"
+          },
+          {
+            "skill": "Guide Research",
+            "effort": "Medium"
+          }
+        ],
+        "learnings": "Teaching to Students, Guide PhD Students",
+        "options": "Could move to administrative roles",
+        "suggestions": "Keep updated with latest research"
+      }
+    ],
+    "status": "Working",
+    "verified_by": null
+  }
+]

@@ -1,0 +1,820 @@
+[
+    {
+        "name": "Amitabh Bachchan",
+        "city": {
+            "id": 1,
+            "name": "Allahabad"
+        },
+        "address": "Prayagraj, Uttar Pradesh, India",
+        "state": {
+            "iso2": "UP",
+            "name": "Uttar Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 xxxx xxxx xxxx",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hinduism",
+        "caste": "Kayastha",
+        "economicStatus": "High",
+        "background": "Son of Hindi poet Harivansh Rai Bachchan and social activist Teji Bachchan",
+        "currentOccupation": "Actor",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Science degree"
+                },
+                "college": {
+                    "collegeName": "Kirori Mal College",
+                    "city": {
+                        "id": 2,
+                        "name": "Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Secondary Education"
+                },
+                "college": {
+                    "collegeName": "Boys' High School & College",
+                    "city": {
+                        "id": 1,
+                        "name": "Allahabad"
+                    },
+                    "state": {
+                        "iso2": "UP",
+                        "name": "Uttar Pradesh"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Secondary Education"
+                },
+                "college": {
+                    "collegeName": "Sherwood College",
+                    "city": {
+                        "id": 3,
+                        "name": "Nainital"
+                    },
+                    "state": {
+                        "iso2": "UK",
+                        "name": "Uttarakhand"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Career Beginnings"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Making a debut as a voice narrator and then as an actor.",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Voice Narration"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Parental influence and inherent passion for acting.",
+                "suggestion": "Never give up despite initial failures."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Peak Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Played pivotal roles, entered mainstream cinema.",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To achieve greater stardom.",
+                "suggestion": "Keep evolving and experimenting with roles."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Political Stint"
+                },
+                "job": {
+                    "job": "Politician"
+                },
+                "experience": "Briefly ventured into politics.",
+                "skills": [
+                    {
+                        "skillName": "Politics"
+                    },
+                    {
+                        "skillName": "Public Speaking"
+                    },
+                    {
+                        "skillName": "Leadership"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To serve the public.",
+                "suggestion": "Stay grounded despite success."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Return to Cinema"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Returned to acting after political stint, faced downfalls and resiliently overcame them.",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Voice Over"
+                    },
+                    {
+                        "skillName": "Singing"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Unwavering passion for acting.",
+                "suggestion": "Never lose hope, resilience is key."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "Admin"
+    },
+    {
+        "name": "Shah Rukh Khan",
+        "city": {
+            "id": 4,
+            "name": "Mumbai"
+        },
+        "address": "Mannat, Bandstand, Bandra (West), Mumbai, Maharashtra, India",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not Available",
+        "mobileNumber": "+91 98000 00000",
+        "personalWebsite": "https://www.redchillies.com/",
+        "socialNetworkLink": [
+            "https://twitter.com/iamsrk"
+        ],
+        "gender": "Male",
+        "religion": "Muslim",
+        "caste": "Not Available",
+        "economicStatus": "High",
+        "background": "Indian",
+        "currentOccupation": "Actor & Film producer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor's degree in Economics"
+                },
+                "college": {
+                    "collegeName": "Hansraj College",
+                    "city": {
+                        "id": 2,
+                        "name": "Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Master's degree in Mass Communication (Incomplete)"
+                },
+                "college": {
+                    "collegeName": "Jamia Millia Islamia",
+                    "city": {
+                        "id": 2,
+                        "name": "New Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Early Stage - Television Debut"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting in Television serials",
+                "skills": [
+                    {
+                        "skillName": "Serial Acting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To Start Career in Acting",
+                "suggestion": "Hard Work, Perseverance and Talent are Key to Success"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Progress Stage - Film Debut"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting in Bollywood Films",
+                "skills": [
+                    {
+                        "skillName": "Film Acting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To achieve success in Bollywood",
+                "suggestion": "Discipline, Dedication and Commitment"
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Peak - Superstar Status"
+                },
+                "job": {
+                    "job": "Producer"
+                },
+                "experience": "Producing Bollywood Films",
+                "skills": [
+                    {
+                        "skillName": "Producing Films"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "To Maintain the Superstar Status",
+                "suggestion": "Innovation and Experimentation"
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "User_Id_Here"
+    },
+    {
+        "name": "Abdul Rashid Salim Salman Khan",
+        "city": {
+            "id": 4,
+            "name": "Mumbai"
+        },
+        "address": "Bandra, Mumbai, Maharashtra, India",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 **********",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [
+            "https://www.twitter.com/BeingSalmanKhan",
+            "https://www.instagram.com/beingsalmankhan/"
+        ],
+        "gender": "Male",
+        "religion": "Muslim",
+        "caste": "N/A",
+        "economicStatus": "High",
+        "background": "Khan is the eldest son of screenwriter Salim Khan and his first wife Sushila Charak, who adopted the name Salma. His grandfather Abdul Rashid Khan was a Deputy Inspector General of the Indore state. His mother is a homemaker, her father comes from Jammu in Jammu and Kashmir & mother from Maharashtra.",
+        "currentOccupation": "Actor, film producer, television personality",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "High School"
+                },
+                "college": {
+                    "collegeName": "St. Stanislaus High School in Bandra, Mumbai",
+                    "city": {
+                        "id": 4,
+                        "name": "Mumbai"
+                    },
+                    "state": {
+                        "iso2": "MH",
+                        "name": "Maharashtra"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Early career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting, Television Presentation",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Television Presentation"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Passion for acting",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Breakthrough and establishment"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting, Television Presentation, Film Production",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Television Presentation"
+                    },
+                    {
+                        "skillName": "Film Production"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Continual success in the film industry",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 4,
+                "degree": {
+                    "degree": "Mainstream success"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting, Television Presentation, Film Production",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Television Presentation"
+                    },
+                    {
+                        "skillName": "Film Production"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Becoming one of the leading actors in the Bollywood industry",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 5,
+                "degree": {
+                    "degree": "Established superstar"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting, Television Presentation, Film Production",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Television Presentation"
+                    },
+                    {
+                        "skillName": "Film Production"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Foray into various roles, presentation of TV realities shows.",
+                "suggestion": "N/A"
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "1"
+    },
+    {
+        "name": "Mohammed Aamir Hussain Khan",
+        "city": {
+            "id": 4,
+            "name": "Bombay"
+        },
+        "address": "Hill View Apartments, Bandra West, Mumbai",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "info@aamirkhan.com",
+        "mobileNumber": "+91 98214 69292",
+        "personalWebsite": "https://www.aamirkhan.com/",
+        "socialNetworkLink": [
+            "https://www.twitter.com/aamir_khan",
+            "https://www.facebook.com/aamirkhan.com"
+        ],
+        "gender": "Male",
+        "religion": "Islam",
+        "caste": "General",
+        "economicStatus": "High",
+        "background": "Family rooted in film industry",
+        "currentOccupation": "Actor, Filmmaker, Producer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Arts"
+                },
+                "college": {
+                    "collegeName": "Narsee Monjee College",
+                    "city": {
+                        "id": 4,
+                        "name": "Mumbai"
+                    },
+                    "state": {
+                        "iso2": "MH",
+                        "name": "Maharashtra"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Stage 1: Early Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Started as a child actor in films and gained initial exposure.",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Directing"
+                    },
+                    {
+                        "skillName": "Scriptwriting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Inspired by his family's involvement in the film industry.",
+                "suggestion": "Expose oneself to the field of interest as early as possible to gain insights and experiences."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Stage 2: Establishing Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Played leading roles in commercially successful films and established himself as a mainstream actor",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Directing"
+                    },
+                    {
+                        "skillName": "Scriptwriting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Passionate about cinema and was driven to make a name for himself.",
+                "suggestion": "Take on roles and projects that align with personal interests and expand working skills."
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Stage 3: Established Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Took on challenging and unconventional roles. Also started producing and directing films.",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Producing"
+                    },
+                    {
+                        "skillName": "Directing"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "Wanted to create impactful cinema and make a difference.",
+                "suggestion": "Expand skillset and take on new challenges to avoid stagnancy in career."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": "Admin"
+    },
+    {
+        "name": "Shivaji Rao Gaikwad",
+        "city": {
+            "id": 5,
+            "name": "Bangalore"
+        },
+        "address": "Mysore State, Bangalore",
+        "state": {
+            "iso2": "KA",
+            "name": "Karnataka"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 XXXXX XXXXX",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Marathi",
+        "economicStatus": "High",
+        "background": "Born in a Marathi family, his father was a police constable and his mother a homemaker. He has two elder brothers and a sister. Showed great interest in cricket, football and basketball during his school days and also started acting in plays at Ramakrishna Math.",
+        "currentOccupation": "Actor",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Acting Course"
+                },
+                "college": {
+                    "collegeName": "Madras Film Institute",
+                    "city": {
+                        "id": 6,
+                        "name": "Chennai"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Primary Education"
+                },
+                "college": {
+                    "collegeName": "Gavipuram Government Kannada Model Primary School",
+                    "city": {
+                        "id": 5,
+                        "name": "Bangalore"
+                    },
+                    "state": {
+                        "iso2": "KA",
+                        "name": "Karnataka"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Beginning of Film Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "N/A",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "N/A",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Rise to Stardom"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "N/A",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Dancing"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "N/A",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Peak of Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "N/A",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Dancing"
+                    },
+                    {
+                        "skillName": "Screenwriting"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "N/A",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 4,
+                "degree": {
+                    "degree": "Continuing Success"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "N/A",
+                "skills": [
+                    {
+                        "skillName": "Acting"
+                    },
+                    {
+                        "skillName": "Dancing"
+                    },
+                    {
+                        "skillName": "Screenwriting"
+                    },
+                    {
+                        "skillName": "Singing"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "Not Available",
+                "motivation": "N/A",
+                "suggestion": "N/A"
+            }
+        ],
+        "status": "Active",
+        "skills": [],
+        "advice": "Not Available",
+        "verified_by": null
+    }
+]

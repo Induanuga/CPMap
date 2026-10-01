@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Avul Pakir Jainulabdeen Abdul Kalam",
+        "city": {
+            "id": 1,
+            "name": "Rameswaram"
+        },
+        "address": "Rameswaram, Tamil Nadu, India",
+        "state": {
+            "iso2": "TN",
+            "name": "Tamil Nadu"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "No information available",
+        "mobileNumber": "No information available",
+        "personalWebsite": "No information available",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Islam",
+        "caste": "Marakayar",
+        "economicStatus": "From a low-income family that ran out of business fortune",
+        "background": "Family was in the trading business involving groceries and ferrying pilgrims. Suffered financial difficulties in his early life.",
+        "currentOccupation": "Scientist (aerospace, defence), Instructional designer, Politician (11th president of India)",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor in Physics"
+                },
+                "college": {
+                    "collegeName": "St. Joseph's College, Tiruchirappalli",
+                    "city": {
+                        "id": 2,
+                        "name": "Tiruchirappalli"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Aerospace Engineering"
+                },
+                "college": {
+                    "collegeName": "Madras Institute of Technology",
+                    "city": {
+                        "id": 3,
+                        "name": "Chennai (Madras)"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 0,
+                "degree": {
+                    "degree": "Aerospace Scientist at ISRO and DRDO"
+                },
+                "job": {
+                    "job": "Scientist"
+                },
+                "experience": "Involved in India's civilian space programme and military missile development",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Passion for aerospace and defence technologies",
+                "suggestion": "Worked hard and showed dedication"
+            },
+            {
+                "stageType": 0,
+                "degree": {
+                    "degree": "11th President of India"
+                },
+                "job": {
+                    "job": "President"
+                },
+                "experience": "Served as the president and was involved in various political decisions and processes",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Gained wide support for the role and was voted in",
+                "suggestion": "Was known as the People's President"
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "Known as the Missile Man of India",
+        "verified_by": null,
+        "skillEffortSchema": []
+    },
+    {
+        "name": "Sir Chandrasekhara Venkata Raman",
+        "city": {
+            "id": 4,
+            "name": "Trichinopoly"
+        },
+        "address": "Tiruchirappalli, Tamilnadu, India",
+        "state": {
+            "iso2": "TN",
+            "name": "Tamilnadu"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "not available",
+        "mobileNumber": "not available",
+        "personalWebsite": "not available",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Brahmin",
+        "economicStatus": "Modest income family",
+        "background": "Physicist",
+        "currentOccupation": "Research scientist",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Arts, Physics"
+                },
+                "college": {
+                    "collegeName": "Presidency College, Madras",
+                    "city": {
+                        "id": 5,
+                        "name": "Chennai"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamilnadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Master of Arts"
+                },
+                "college": {
+                    "collegeName": "University of Madras",
+                    "city": {
+                        "id": 5,
+                        "name": "Chennai"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamilnadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Research in light scattering"
+                },
+                "job": {
+                    "job": "Researcher"
+                },
+                "experience": "Developed practical applications for understanding the behavior of light when it interacts with matter.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Curiosity about the properties of light.",
+                "suggestion": "Pursue advanced research in light scattering."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Nobel Laureate"
+                },
+                "job": {
+                    "job": "Scientist"
+                },
+                "experience": "Recognition of work in light scattering and the 'Raman effect'",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Passion for uncovering the secrets of light.",
+                "suggestion": "Maintain dedication to scientific discovery."
+            }
+        ],
+        "status": "Verified",
+        "skills": [
+            {
+                "skillName": "Light scattering research"
+            },
+            {
+                "skillName": "Spectrograph operation"
+            },
+            {
+                "skillName": "Acoustics research"
+            }
+        ],
+        "advice": "Science can be a force for change.",
+        "verified_by": "Admin"
+    },
+    {
+        "name": "Vikram Ambalal Sarabhai",
+        "city": {
+            "id": 6,
+            "name": "Ahmedabad"
+        },
+        "address": "RETREAT, Ahmedabad, Gujarat, India",
+        "state": {
+            "iso2": "GJ",
+            "name": "Gujarat"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "",
+        "mobileNumber": "",
+        "personalWebsite": "",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Jain",
+        "caste": "",
+        "economicStatus": "High",
+        "background": "Scientific Research and Industrialist",
+        "currentOccupation": "Physicist, Astronomer, Industrialist",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Tripos in Natural Sciences"
+                },
+                "college": {
+                    "collegeName": "University of Cambridge",
+                    "city": {
+                        "id": 7,
+                        "name": "Cambridge"
+                    },
+                    "state": {
+                        "iso2": "CB",
+                        "name": "Cambridge"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "PhD in Cosmic Ray Investigations in Tropical Latitudes"
+                },
+                "college": {
+                    "collegeName": "University of Cambridge",
+                    "city": {
+                        "id": 7,
+                        "name": "Cambridge"
+                    },
+                    "state": {
+                        "iso2": "CB",
+                        "name": "Cambridge"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Founding the Physical Research Laboratory"
+                },
+                "job": {
+                    "job": "Founder"
+                },
+                "experience": "Research on cosmic rays and properties of upper atmosphere",
+                "skills": [
+                    {
+                        "skillName": "Research"
+                    },
+                    {
+                        "skillName": "Leadership"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "The need to establish a research institute in India during the post-independence period",
+                "suggestion": ""
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Leading the Sarabhai business conglomerate"
+                },
+                "job": {
+                    "job": "Leader"
+                },
+                "experience": "",
+                "skills": [
+                    {
+                        "skillName": "Leadership"
+                    },
+                    {
+                        "skillName": "Management"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "",
+                "suggestion": ""
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Establishing Indian Institutes and Projects"
+                },
+                "job": {
+                    "job": "Leader"
+                },
+                "experience": "",
+                "skills": [
+                    {
+                        "skillName": "Leadership"
+                    },
+                    {
+                        "skillName": "Project Management"
+                    },
+                    {
+                        "skillName": "Strategic Planning"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "The urge to advance India's standing in various fields including management, textile industry, performing arts, nuclear energy and space research",
+                "suggestion": "Continuous investment in research and development"
+            }
+        ],
+        "status": "",
+        "skills": [],
+        "advice": "",
+        "verified_by": ""
+    },
+    {
+        "name": "Homi Jehangir Bhabha",
+        "city": {
+            "id": 8,
+            "name": "Mumbai"
+        },
+        "address": "Tata Institute of Fundamental Research, Mumbai, Maharashtra, India",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 N/A",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Zoroastrianism",
+        "caste": "Parsi",
+        "economicStatus": "Wealthy",
+        "background": "Born into a wealthy Parsi family",
+        "currentOccupation": "Nuclear Physicist",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Doctorate in nuclear physics"
+                },
+                "college": {
+                    "collegeName": "Cambridge University",
+                    "city": {
+                        "id": 9,
+                        "name": "Cambridge"
+                    },
+                    "state": {
+                        "iso2": "CB",
+                        "name": "Cambridge"
+                    },
+                    "country": {
+                        "iso2": "GB",
+                        "name": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Formation of Tata Institute of Fundamental Research (TIFR)"
+                },
+                "job": {
+                    "job": "Founder"
+                },
+                "experience": "Establishment and management of a major research institute",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Boost scientific research outcomes in India",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Development of India's Nuclear Program"
+                },
+                "job": {
+                    "job": "Nuclear Physicist"
+                },
+                "experience": "Contributions to nuclear physics and pioneering India's nuclear energy program",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Establish India as a nuclear power",
+                "suggestion": "N/A"
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "N/A",
+        "verified_by": null
+    },
+    {
+        "name": "Satyendra Nath Bose",
+        "city": {
+            "id": 10,
+            "name": "Calcutta"
+        },
+        "address": "Darbhanga Building, College Square, Kolkata, India",
+        "state": {
+            "iso2": "WB",
+            "name": "West Bengal"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not Available",
+        "mobileNumber": "Not Available",
+        "personalWebsite": "Not Available",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hinduism",
+        "caste": "Kayastha",
+        "economicStatus": "Unknown",
+        "background": "Born and raised in a Bengali Kayastha family, he was the eldest of seven children.",
+        "currentOccupation": "Theoretical Physicist and Mathematician",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Bachelor of Science mixed Mathematics"
+                },
+                "college": {
+                    "collegeName": "Presidency College",
+                    "city": {
+                        "id": 11,
+                        "name": "Kolkata"
+                    },
+                    "state": {
+                        "iso2": "WB",
+                        "name": "West Bengal"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Master of Science mixed Mathematics"
+                },
+                "college": {
+                    "collegeName": "University Science College",
+                    "city": {
+                        "id": 11,
+                        "name": "Calcutta"
+                    },
+                    "state": {
+                        "iso2": "WB",
+                        "name": "West Bengal"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Student Life"
+                },
+                "job": {
+                    "job": "Student"
+                },
+                "experience": "Learned fundamental concepts of Physics and Mathematics.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Aim to contribute significantly in the field of Theoretical Physics.",
+                "suggestion": "Keep exploring and questioning the established theories and concepts."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Professional Life"
+                },
+                "job": {
+                    "job": "Physicist"
+                },
+                "experience": "Worked on novel aspects of quantum mechanics, particularly Bose–Einstein statistics and quantum statistics",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Desire to unveil the underlying principles of the universe.",
+                "suggestion": "Consistent hard work, dedication, and an analytical mindset can lead to ground-breaking discoveries."
+            }
+        ],
+        "status": "Deceased",
+        "skills": [
+            {
+                "skillName": "Quantum Mechanics"
+            },
+            {
+                "skillName": "Theoretical Physics"
+            },
+            {
+                "skillName": "Mathematics"
+            }
+        ],
+        "advice": "Your work can be a path-breaking contribution to humanity.",
+        "verified_by": null
+    }
+]

@@ -1,0 +1,601 @@
+[
+    {
+        "name": "Sachin Ramesh Tendulkar",
+        "city": {
+            "id": 1,
+            "name": "Mumbai"
+        },
+        "address": "Dadar, Mumbai, Maharashtra, India",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 00000 00000",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "N/A",
+        "economicStatus": "High",
+        "background": "Sachin was a famous International cricketer who is considered one of the greatest batsmen in the history of cricket.",
+        "currentOccupation": "Former Cricketer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "High School"
+                },
+                "college": {
+                    "collegeName": "Sharadashram Vidyamandir School",
+                    "city": {
+                        "id": 2,
+                        "name": "Mumbai"
+                    },
+                    "state": {
+                        "iso2": "MH",
+                        "name": "Maharashtra"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Early Cricket Career"
+                },
+                "job": {
+                    "job": "Cricketer"
+                },
+                "experience": "Sachin was introduced to cricket by his brother Ajit and was coached by Ramakant Achrekar.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "He was interested in both tennis and cricket as a child and idolised John McEnroe.",
+                "suggestion": "Sachin trained hard, initially struggling and later mastering his skills."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "International Cricket Debut"
+                },
+                "job": {
+                    "job": "Cricketer"
+                },
+                "experience": "Making his debut at the age of sixteen for the Indian cricket team.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "His love and passion for cricket and the desire to represent his country at an international level.",
+                "suggestion": "Despite the challenges and pressure faced in international cricket, a strong mindset and focus on the game are crucial."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "Hard work, discipline, and never giving up are key to achieving success.",
+        "verified_by": "Admin",
+        "skills_effort": [
+            {
+                "skill": "Batting",
+                "effort": "High"
+            },
+            {
+                "skill": "Bowler",
+                "effort": "Medium"
+            },
+            {
+                "skill": "Fielding",
+                "effort": "High"
+            }
+        ]
+    },
+    {
+        "name": "Virat Kohli",
+        "city": {
+            "id": 3,
+            "name": "Delhi"
+        },
+        "address": "Paschim Vihar, New Delhi",
+        "state": {
+            "iso2": "DL",
+            "name": "Delhi"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "NA",
+        "mobileNumber": "+91 12345 67890",
+        "personalWebsite": "NA",
+        "socialNetworkLink": [
+            "https://www.instagram.com/virat.kohli/"
+        ],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "NA",
+        "economicStatus": "High",
+        "background": "Criminal Lawyer Father, Housewife Mother",
+        "currentOccupation": "Cricketer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "High School"
+                },
+                "college": {
+                    "collegeName": "Vishal Bharti Public School",
+                    "city": {
+                        "id": 3,
+                        "name": "Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "High School"
+                },
+                "college": {
+                    "collegeName": "Saviour Convent School",
+                    "city": {
+                        "id": 3,
+                        "name": "Delhi"
+                    },
+                    "state": {
+                        "iso2": "DL",
+                        "name": "Delhi"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Cricket Academy Training"
+                },
+                "job": {
+                    "job": "Cricketer"
+                },
+                "experience": "Cricketing skills and techniques.",
+                "skills": [
+                    {
+                        "skillName": "Cricket"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "NA",
+                "motivation": "Passion for cricket.",
+                "suggestion": "NA"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Professional International Cricket"
+                },
+                "job": {
+                    "job": "Cricketer"
+                },
+                "experience": "Advanced cricketing skills, strategy, leadership.",
+                "skills": [
+                    {
+                        "skillName": "Cricket"
+                    },
+                    {
+                        "skillName": "Leadership"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "NA",
+                "motivation": "Love for the sport, ambition to represent India.",
+                "suggestion": "NA"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Business Ventures"
+                },
+                "job": {
+                    "job": "Entrepreneur"
+                },
+                "experience": "Business management and investment.",
+                "skills": [
+                    {
+                        "skillName": "Business Management"
+                    },
+                    {
+                        "skillName": "Entrepreneurship"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "NA",
+                "motivation": "Interest in business, ambition to succeed outside cricket.",
+                "suggestion": "Realize your potential outside your primary field of work."
+            }
+        ],
+        "status": "Moderation pending",
+        "skills": [],
+        "advice": "NA"
+    },
+    {
+        "name": "Milkha Singh",
+        "city": {
+            "id": 4,
+            "name": "Muzaffargarh"
+        },
+        "address": "Govindpura Village, Muzaffargarh, Punjab, British India",
+        "state": {
+            "iso2": "PB",
+            "name": "Punjab"
+        },
+        "country": {
+            "iso2": "PK",
+            "name": "Pakistan"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 98765 43210",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Sikh",
+        "caste": "Rathore Rajput",
+        "economicStatus": "Not known",
+        "background": "Army",
+        "currentOccupation": "Athlete",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "1951 Entry into Army and Introduction to Athletics"
+                },
+                "job": {
+                    "job": "Athlete"
+                },
+                "experience": "Introduced to running and athletics by the Indian Army.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "To serve nation and personal growth.",
+                "suggestion": "Joining Indian Army was a turning point in life."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "1956 Melbourne Olympic Games"
+                },
+                "job": {
+                    "job": "Athlete"
+                },
+                "experience": "Gained international exposure and experience.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Meeting with Charles Jenkins, 400m champion.",
+                "suggestion": "Participation in such events help in gaining broader perspective."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "2001 Rejection of Arjuna Award"
+                },
+                "job": {
+                    "job": "Athlete"
+                },
+                "experience": "Valued his achievements and recognized the worth of awards.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "To maintain dignity and credibility of awards.",
+                "suggestion": "Awards should be given to those who truly deserve."
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "Never lose hope in tough situations.",
+        "verified_by": null,
+        "skillEffort": [
+            {
+                "skill_id": "Running 400m",
+                "effort": "Extensive training and dedication"
+            },
+            {
+                "skill_id": "Discipline",
+                "effort": "Strict lifestyle and commitment towards training"
+            }
+        ]
+    },
+    {
+        "name": "Pullela Gopichand",
+        "city": {
+            "id": 5,
+            "name": "Hyderabad"
+        },
+        "address": "Gopichand Badminton Academy, Hyderabad, India",
+        "state": {
+            "iso2": "TG",
+            "name": "Telangana"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "gopichand@academy.com",
+        "mobileNumber": "+91 98765 43210",
+        "personalWebsite": "",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hindu",
+        "caste": "Not disclosed",
+        "economicStatus": "Not disclosed",
+        "background": "Sportsperson, Badminton coach",
+        "currentOccupation": "Chief National Coach for the India national badminton team",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Graduation in Public Administration"
+                },
+                "college": {
+                    "collegeName": "A. V. College",
+                    "city": {
+                        "id": 5,
+                        "name": "Hyderabad"
+                    },
+                    "state": {
+                        "iso2": "TG",
+                        "name": "Telangana"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Career as a Badminton Player"
+                },
+                "job": {
+                    "job": "Badminton Player"
+                },
+                "experience": "Learned and honed badminton skills.",
+                "skills": [
+                    {
+                        "skillName": "5678"
+                    },
+                    {
+                        "skillName": "9123"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Passion for the sport.",
+                "suggestion": "N/A"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Starting Gopichand Badminton Academy"
+                },
+                "job": {
+                    "job": "Coach"
+                },
+                "experience": "Learned coaching and management skills.",
+                "skills": [
+                    {
+                        "skillName": "2345"
+                    },
+                    {
+                        "skillName": "6789"
+                    }
+                ],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "To promote and train future badminton champions of India.",
+                "suggestion": "N/A"
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "N/A",
+        "verified_by": "admin_123",
+        "skillEffort": [
+            {
+                "skill_id": "5678",
+                "effort": "High",
+                "holder_id": "gopichand123"
+            },
+            {
+                "skill_id": "9123",
+                "effort": "High",
+                "holder_id": "gopichand123"
+            },
+            {
+                "skill_id": "2345",
+                "effort": "Medium",
+                "holder_id": "gopichand123"
+            },
+            {
+                "skill_id": "6789",
+                "effort": "Medium",
+                "holder_id": "gopichand123"
+            }
+        ]
+    },
+    {
+        "name": "Pusarla Venkata Sindhu",
+        "city": {
+            "id": 6,
+            "name": "Hyderabad"
+        },
+        "address": "Not Available",
+        "state": {
+            "iso2": "TG",
+            "name": "Telangana"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "Not Available",
+        "mobileNumber": "+91 nnnnn nnnnn",
+        "personalWebsite": "Not Available",
+        "socialNetworkLink": [],
+        "gender": "Female",
+        "religion": "Hinduism",
+        "caste": "Not Available",
+        "economicStatus": "High",
+        "background": "Both her parents have been national level volleyball players.",
+        "currentOccupation": "Professional Badminton Player",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "High School"
+                },
+                "college": {
+                    "collegeName": "Auxilium High School",
+                    "city": {
+                        "id": 6,
+                        "name": "Hyderabad"
+                    },
+                    "state": {
+                        "iso2": "TG",
+                        "name": "Telangana"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Graduate"
+                },
+                "college": {
+                    "collegeName": "St. Ann's College for Women",
+                    "city": {
+                        "id": 6,
+                        "name": "Hyderabad"
+                    },
+                    "state": {
+                        "iso2": "TG",
+                        "name": "Telangana"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Junior Championships"
+                },
+                "job": {
+                    "job": "Badminton Player"
+                },
+                "experience": "Learned basics of badminton.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Inspired by the success of Pullela Gopichand.",
+                "suggestion": "Consistency and Hard work."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Asian Junior Championships"
+                },
+                "job": {
+                    "job": "Badminton Player"
+                },
+                "experience": "Won bronze medal.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Motivated by her previous success.",
+                "suggestion": "Always strive for success."
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "Olympic Games"
+                },
+                "job": {
+                    "job": "Badminton Player"
+                },
+                "experience": "Got silver medal in 2016 and bronze in 2020.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Motivated by her successes and failures.",
+                "suggestion": "Always strive for success."
+            }
+        ],
+        "status": "Verified",
+        "skills": [],
+        "advice": "The most striking feature in Sindhu's game is her attitude and the never-say-die spirit.",
+        "verified_by": null
+    }
+]

@@ -1,0 +1,1597 @@
+[
+  {
+      "name": "Ravi Kumar",
+      "address": "102, Radhika Apartments, Udaipur, Rajasthan",
+      "email": "ravi.kumar@example.com",
+      "mobileNumber": "+9188888888",
+      "personalWebsite": "www.ravikumar.com",
+      "socialNetworkLink": ["https://www.linkedin.com/ravikumar", "https://www.github.com/ravikumar"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Rajput",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Software Developer",
+      "education": [{
+          "degree": "B.Tech in Computer Science",
+          "institution": "IIT Bombay",
+          "from": "2012-08-01T00:00:00.000Z",
+          "to": "2016-05-31T00:00:00.000Z",
+          "institutionAddress": "Powai, Mumbai"
+      },
+      {
+          "degree": "MBA",
+          "institution": "IIM Ahmedabad",
+          "from": "2020-06-01T00:00:00.000Z",
+          "to": "2022-05-31T00:00:00.000Z",
+          "institutionAddress": "Vastrapur, Ahmedabad"
+      }],
+      "stages": [{
+          "stageName": "Internship",
+          "stageType": "Intern",
+          "skills": [{
+              "skill": "Java",
+              "effort": "Medium"
+          },
+          {
+              "skill": "Python",
+              "effort": "High"
+          }],
+          "learnings": "Learned about handling real world projects",
+          "options": "Option to get full time offer",
+          "suggestions": "Should take more initiative"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Shivani Singh",
+      "address": "5, Green park colony, Bangalore, Karnataka",
+      "email": "shivani.singh@example.com",
+      "mobileNumber": "+919999999999",
+      "personalWebsite": null,
+      "socialNetworkLink": ["https://www.linkedin.com/shivani-singh"],
+      "gender": "Female",
+      "religion": "Sikh",
+      "caste": "Jatt",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Data Scientist",
+      "education": [{
+          "degree": "Bachelor of Statistics",
+          "institution": "Delhi University",
+          "from": "2010-08-01T00:00:00.000Z",
+          "to": "2013-05-31T00:00:00.000Z",
+          "institutionAddress": "Delhi"
+      },
+      {
+          "degree": "Master of Statistics",
+          "institution": "Delhi University",
+          "from": "2013-08-01T00:00:00.000Z",
+          "to": "2015-05-31T00:00:00.000Z",
+          "institutionAddress": "Delhi"
+      },
+      {
+          "degree": "Ph.D. in Statistics",
+          "institution": "ISI Kolkata",
+          "from": "2016-08-01T00:00:00.000Z",
+          "to": "2020-05-31T00:00:00.000Z",
+          "institutionAddress": "Kolkata"
+      }],
+      "stages": [{
+          "stageName": "Research",
+          "stageType": "Research Fellow",
+          "skills": [{
+              "skill": "R",
+              "effort": "High"
+          },
+          {
+              "skill": "Data Analysis",
+              "effort": "High"
+          }],
+          "learnings": "Advanced knowledge in statistical methods",
+          "options": null,
+          "suggestions": null
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Mukesh Agrawal",
+      "address": "56, Sun City, Indore, Madhya Pradesh",
+      "email": "mukesh.agrawal@example.com",
+      "mobileNumber": "+91789645213",
+      "personalWebsite": "www.mukesh-agrawal.com",
+      "socialNetworkLink": ["https://www.facebook.com/mukesh.agrawal", "https://www.instagram.com/mukesh_agrawal"],
+      "gender": "Male",
+      "religion": "Jain",
+      "caste": "Agrawal",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Business Owner",
+      "education": [{
+          "degree": "MBA in Finance",
+          "institution": "IIM Indore",
+          "from": "2008-08-01T00:00:00.000Z",
+          "to": "2010-05-31T00:00:00.000Z",
+          "institutionAddress": "Rau-Pithampur Road, Indore"
+      }],
+      "stages": [{
+          "stageName": "Business Establishment",
+          "stageType": "Entrepreneur",
+          "skills": [{
+              "skill": "Leadership",
+              "effort": "High"
+          },
+          {
+              "skill": "Strategic Planning",
+              "effort": "Medium"
+          }],
+          "learnings": "Managing finances and people",
+          "options": "Venture into new domains or expansion",
+          "suggestions": "Should hire professional managers for better efficiency"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Ankita Patel",
+      "address": "18, Spring Field Society, Surat, Gujarat",
+      "email": "ankita.patel@example.com",
+      "mobileNumber": "+917158412874",
+      "personalWebsite": "www.ankitapatel.com",
+      "socialNetworkLink": ["https://www.linkedin.com/ankita-patel", "https://twitter.com/ankita_patel"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Patel",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Civil Engineer",
+      "education": [{
+          "degree": "B.Tech in Civil Engineering",
+          "institution": "NIT Surat",
+          "from": "2014-08-01T00:00:00.000Z",
+          "to": "2018-05-31T00:00:00.000Z",
+          "institutionAddress": "Ichchhanath, Surat"
+      }],
+      "stages": [{
+          "stageName": "Infrastructure Development",
+          "stageType": "Engineer",
+          "skills": [{
+              "skill": "AutoCAD",
+              "effort": "High"
+          },
+          {
+              "skill": "Project Management",
+              "effort": "Medium"
+          }],
+          "learnings": "Practical application of engineering concepts",
+          "options": "Career growth in consultancy or government sector",
+          "suggestions": "Should improve networking for better opportunities"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Vijay Sharma",
+      "address": "Flat no. 303, Rajat Apartments, Nagpur, Maharashtra",
+      "email": "vijay.sharma@example.com",
+      "mobileNumber": "+918765432109",
+      "personalWebsite": "www.vijaysharma.com",
+      "socialNetworkLink": ["https://www.facebook.com/vijay.sharma", "https://www.instagram.com/vijaysharma"],
+      "gender": "Male",
+      "religion": "Buddhist",
+      "caste": "Mali",
+      "economicStatus": "Middle class",
+      "background": "Rural",
+      "currentOccupation": "Agriculturist",
+      "education": [{
+          "degree": "BSc in Agriculture",
+          "institution": "Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola",
+          "from": "2012-08-01T00:00:00.000Z",
+          "to": "2016-05-31T00:00:00.000Z",
+          "institutionAddress": "P.O. Krishi Nagar, Akola"
+      }],
+      "stages": [{
+          "stageName": "Cultivation",
+          "stageType": "Farmer",
+          "skills": [{
+              "skill": "Crop Rotation",
+              "effort": "Medium"
+          },
+          {
+              "skill": "Irrigation Management",
+              "effort": "High"
+          }],
+          "learnings": "Farm management and mechanization",
+          "options": "Organic farming or greenhouse cultivation",
+          "suggestions": "Should adopt new farming technologies for better yield"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Aishwarya Iyer",
+      "address": "K-21, Orchid Valley, Trivandrum, Kerala",
+      "email": "aishwarya.iyer@example.com",
+      "mobileNumber": "+917654987321",
+      "personalWebsite": "www.aishwaryaiyer.com",
+      "socialNetworkLink": ["https://in.linkedin.com/aishwarya-iyer", "https://twitter.com/aishu_iyer"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Brahmin-Iyer",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Advertising Manager",
+      "education": [{
+          "degree": "Bachelor in Mass Communication",
+          "institution": "Amity University, Noida",
+          "from": "2011-08-01T00:00:00.000Z",
+          "to": "2014-05-31T00:00:00.000Z",
+          "institutionAddress": "Sector-125, Noida"
+      },
+      {
+          "degree": "MBA in Marketing",
+          "institution": "Xavier School of Management, Jamshedpur",
+          "from": "2015-07-01T00:00:00.000Z",
+          "to": "2017-06-30T00:00:00.000Z",
+          "institutionAddress": "Circuit House Area, Jamshedpur"
+      }],
+      "stages": [{
+          "stageName": "Brand Promotion",
+          "stageType": "Manager",
+          "skills": [{
+              "skill": "Creative Thinking",
+              "effort": "High"
+          },
+          {
+              "skill": "Market Research",
+              "effort": "Medium"
+          }],
+          "learnings": "Brand positioning strategies",
+          "options": "Career progression to senior managerial role",
+          "suggestions": "Should improve leadership skills"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Abhinav Bhatia",
+      "address": "11/56, Moti Apartments, Jodhpur, Rajasthan",
+      "email": "abhinav.bhatia@example.com",
+      "mobileNumber": "+9133333333",
+      "personalWebsite": "www.abhinavbhatia.com",
+      "socialNetworkLink": ["https://www.linkedin.com/abhinavbhatia", "https://twitter.com/abhinavbhatia"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Photographer",
+      "education": [{
+          "degree": "Bachelor of Fine Arts",
+          "institution": "Rajasthan School of Art",
+          "from": "2010-08-01T00:00:00.000Z",
+          "to": "2014-05-31T00:00:00.000Z",
+          "institutionAddress": "Jaipur"
+      }],
+      "stages": [{
+          "stageName": "Professional Photography",
+          "stageType": "Artist",
+          "skills": [{
+              "skill": "Adobe Lightroom",
+              "effort": "High"
+          },
+          {
+              "skill": "Adobe Photoshop",
+              "effort": "Medium"
+          }],
+          "learnings": "Image composition and editing",
+          "options": "Fine arts or film photography",
+          "suggestions": "Can opt for international collaborations"
+      }],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Sneha Banerjee",
+      "address": "33, Lake Gardens, Kolkata, West Bengal",
+      "email": "sneha.banerjee@example.com",
+      "mobileNumber": "+913454654654",
+      "personalWebsite": "www.snehbanerjee.com",
+      "socialNetworkLink": ["https://www.linkedin.com/sneh-banerjee", "https://twitter.com/sneha_ban"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Brahmin - Barendra",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Associate Professor",
+      "education": [{
+          "degree": "M.Phil in Philosophy",
+          "institution": "Jadavpur University",
+          "from": "2010-08-01T00:00:00.000Z",
+          "to": "2012-05-31T00:00:00.000Z",
+          "institutionAddress": "Kolkata"
+      },
+      {
+          "degree": "Ph.D. in Philosophy",
+          "institution": "University of Calcutta",
+          "from": "2013-08-01T00:00:00.000Z",
+          "to": "2018-05-31T00:00:00.000Z",
+          "institutionAddress": "Kolkata"
+      }],
+      "stages": [{
+          "stageName": "Teaching",
+          "stageType": "Educator",
+          "skills": [{
+              "skill": "Interactive Teaching",
+              "effort": "High"
+          },
+          {
+              "skill": "Counselling",
+              "effort": "Medium"
+          }],
+          "learnings": "Pedagogical approach diversity",
+          "options": "Administration or Counselling",
+          "suggestions": "Should publish more research papers"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Karishma Mehta",
+      "address": "B-16, Shantivan Society, Pune, Maharashtra",
+      "email": "karishma.mehta@example.com",
+      "mobileNumber": "+919876543210",
+      "personalWebsite": "www.karishmamehta.com",
+      "socialNetworkLink": ["https://www.linkedin.com/karishmamehta", "https://www.instagram.com/karishma_mehta"],
+      "gender": "Female",
+      "religion": "Jain",
+      "caste": "Shwetamber",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Fashion Designer",
+      "education": [{
+          "degree": "Bachelor of Design",
+          "institution": "National Institute of Fashion Technology, Mumbai",
+          "from": "2011-08-01T00:00:00.000Z",
+          "to": "2015-05-31T00:00:00.000Z",
+          "institutionAddress": "Mumbai"
+      }],
+      "stages": [{
+          "stageName": "Fashion & Lifestyle",
+          "stageType": "Designer",
+          "skills": [{
+              "skill": "Sketching",
+              "effort": "High"
+          },
+          {
+              "skill": "Trend Forecasting",
+              "effort": "Medium"
+          }],
+          "learnings": "Product development and market trend analysis",
+          "options": "Collaboration with international fashion houses",
+          "suggestions": "Should focus on sustainable fashion"
+      }],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Varun Nair",
+      "address": "402, Palm Groves, Kochi, Kerala",
+      "email": "varun.nair@example.com",
+      "mobileNumber": "+919029564789",
+      "personalWebsite": "www.varun-nair.com",
+      "socialNetworkLink": ["https://www.linkedin.com/varun-nair", "https://www.facebook.com/varun-nair"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Nair",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Marine Biologist",
+      "education": [{
+          "degree": "Bachelor of Science in Marine Biology",
+          "institution": "Cochin University of Science and Technology",
+          "from": "2008-08-01T00:00:00.000Z",
+          "to": "2011-05-31T00:00:00.000Z",
+          "institutionAddress": "Kochi"
+      },
+      {
+          "degree": "Master's in Aquaculture",
+          "institution": "Kerala University of Fisheries and Ocean Studies",
+          "from": "2012-08-01T00:00:00.000Z",
+          "to": "2014-05-31T00:00:00.000Z",
+          "institutionAddress": "Kochi"
+      }],
+      "stages": [{
+          "stageName": "Marine Conservation",
+          "stageType": "Researcher",
+          "skills": [{
+              "skill": "Aquatic Ecosystem Research",
+              "effort": "High"
+          },
+          {
+              "skill": "Population Monitoring",
+              "effort": "Medium"
+          }],
+          "learnings": "Maintaining the biodiversity of aquatic ecosystems",
+          "options": "Oceanic expedition or teaching",
+          "suggestions": "Should opt for Ph.D. for more in-depth research"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Geeta Roy",
+      "address": "Kailash Enclave, Flat no - 224, Guwahati, Assam",
+      "email": "geeta.roy@example.com",
+      "mobileNumber": "+919800012345",
+      "personalWebsite": "www.geetaroy.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/geetaroy", "https://www.facebook.com/geeta.roy.3348"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "economicStatus": "Lower middle class",
+      "background": "Rural",
+      "currentOccupation": "School Teacher",
+      "education": [
+          {
+              "degree": "Bachelor of Arts",
+              "institution": "Cotton University, Guwahati",
+              "from": "1995-06-10T00:00:00.000Z",
+              "to": "1998-06-01T00:00:00.000Z",
+              "institutionAddress": "Pan Bazar, Guwahati"
+          },
+          {
+              "degree": "Bachelor of Education",
+              "institution": "Gauhati University",
+              "from": "1999-06-10T00:00:00.000Z",
+              "to": "2000-06-01T00:00:00.000Z",
+              "institutionAddress": "Jalukbari, Guwahati"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Secondary Education",
+              "stageType": "Educator",
+              "skills": [
+                  {
+                      "skill": "Communication",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Lesson Planning",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Imparting quality education to the rural students",
+              "options": "Career growth by pursuing Masters in Education",
+              "suggestions": "Should attend professional development trainings"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Balu Ram",
+      "address": "D-5, Katariya Colony, Jaipur, Rajasthan",
+      "email": "balu.ram@example.com",
+      "mobileNumber": "+919800543210",
+      "personalWebsite": null,
+      "socialNetworkLink": ["https://www.facebook.com/baluram.rajput"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Rajput",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Real Estate Agent",
+      "education": [
+          {
+              "degree": "Bachelor of Commerce",
+              "institution": "University of Rajasthan, Jaipur",
+              "from": "1990-06-10T00:00:00.000Z",
+              "to": "1993-06-01T00:00:00.000Z",
+              "institutionAddress": "J L N Marg, Jaipur"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Real Estate",
+              "stageType": "Agent",
+              "skills": [
+                  {
+                      "skill": "Negotiation",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Marketing",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Building network and closing property deals",
+              "options": "Begin own real estate firm",
+              "suggestions": "Should learn about property laws"
+          }
+      ],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Latha Raman",
+      "address": "126, Lotus Colony, Chennai, Tamil Nadu",
+      "email": "latha.raman@example.com",
+      "mobileNumber": "+919744123599",
+      "personalWebsite": "www.latharaman.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/latharaman", "https://www.facebook.com/latharaman"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Brahmin - Iyengar",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Radiologist",
+      "education": [
+          {
+              "degree": "MBBS",
+              "institution": "Madras Medical College, Chennai",
+              "from": "2001-06-10T00:00:00.000Z",
+              "to": "2006-06-01T00:00:00.000Z",
+              "institutionAddress": "Periyar EVR Salai, Park Town, Chennai"
+          },
+          {
+              "degree": "MD Radiology",
+              "institution": "AIIMS, Delhi",
+              "from": "2007-06-10T00:00:00.000Z",
+              "to": "2010-06-01T00:00:00.000Z",
+              "institutionAddress": "Maharaja Agrasen Marg, Ansari Nagar, New Delhi"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Medical Practice",
+              "stageType": "Doctor",
+              "skills": [
+                  {
+                      "skill": "Ultrasound Imaging",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Magnetic Resonance Imaging",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Providing diagnostic images and reports",
+              "options": "Research in Radiology",
+              "suggestions": "Should attend radiology courses and webinars"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Parth Mehta",
+      "address": "505, Shanti Dham, Vadodara, Gujarat",
+      "email": "parth.mehta@example.com",
+      "mobileNumber": "+919875643210",
+      "personalWebsite": "www.parthmehta.com",
+      "socialNetworkLink": ["https://www.linkedin.com/parthmehta", "https://www.facebook.com/parthmehta"],
+      "gender": "Male",
+      "religion": "Jain",
+      "caste": "Vania",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Stock Trader",
+      "education": [
+          {
+              "degree": "Bachelor of Commerce",
+              "institution": "Faculty of Commerce, MS University, Vadodara",
+              "from": "2009-06-10T00:00:00.000Z",
+              "to": "2012-06-01T00:00:00.000Z",
+              "institutionAddress": "Fatehganj, Vadodara"
+          },
+          {
+              "degree": "CFA (Chartered Financial Analyst)",
+              "institution": "CFA Institute, USA",
+              "from": "2013-06-10T00:00:00.000Z",
+              "to": "2016-06-01T00:00:00.000Z",
+              "institutionAddress": "CFA Institute, USA"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Stock Trading",
+              "stageType": "Trader",
+              "skills": [
+                  {
+                      "skill": "Technical Analysis",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Risk Management",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Understanding market trends and making profitable trades",
+              "options": "Fund Management",
+              "suggestions": "Should invest in other asset classes for diversification"
+          }
+      ],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Kirti Patel",
+      "address": "45, Krishna Park Society, Junagadh, Gujarat",
+      "email": "kirti.patel@example.com",
+      "mobileNumber": "+918976543210",
+      "personalWebsite": "www.kirtipatel.com",
+      "socialNetworkLink": ["https://www.facebook.com/kirti.patel"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Patel",
+      "economicStatus": "Lower middle class",
+      "background": "Rural",
+      "currentOccupation": "Primary School Teacher",
+      "education": [
+          {
+              "degree": "Bachelor of Arts",
+              "institution": "Gujarat University",
+              "from": "2010-06-10T00:00:00.000Z",
+              "to": "2013-05-31T00:00:00.000Z",
+              "institutionAddress": "Ahmedabad"
+          },
+          
+          {
+              "degree": "Bachelor of Education",
+              "institution": "Gujarat University",
+              "from": "2014-06-10T00:00:00.000Z",
+              "to": "2015-05-31T00:00:00.000Z",
+              "institutionAddress": "Ahmedabad"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Primary Education",
+              "stageType": "Educator",
+              "skills": [
+                  {
+                      "skill": "Teaching",
+                      "effort": "Medium"
+                  },
+                  {
+                      "skill": "Mentoring",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Understanding the requirements and capabilities of young students",
+              "options": "Could pursue higher studies for career growth",
+              "suggestions": "Should focus on child psychology to improve teaching methods"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Vikas Verma",
+      "address": "B-4, Milan Apartments, Jalandhar, Punjab",
+      "email": "vikas.verma@example.com",
+      "mobileNumber": "+919385041271",
+      "personalWebsite": "www.vikasverma.com",
+      "socialNetworkLink": ["https://www.linkedin.com/vikas-verma", "https://www.instagram.com/vikas_verma"],
+      "gender": "Male",
+      "religion": "Sikh",
+      "caste": "Khatri",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Psychiatrist",
+      "education": [
+          {
+              "degree": "MBBS",
+              "institution": "AIIMS, Delhi",
+              "from": "2005-06-10T00:00:00.000Z",
+              "to": "2010-05-31T00:00:00.000Z",
+              "institutionAddress": "New Delhi"
+          },
+          
+          {
+              "degree": "MD Psychiatry",
+              "institution": "AIIMS, Delhi",
+              "from": "2011-06-10T00:00:00.000Z",
+              "to": "2014-05-31T00:00:00.000Z",
+              "institutionAddress": "New Delhi"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Medical Practice",
+              "stageType": "Doctor",
+              "skills": [
+                  {
+                      "skill": "Diagnosis",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Psychotherapy",
+                      "effort": "High"
+                  }
+              ],
+              "learnings": "Understanding mental health issues and providing treatments",
+              "options": "Specializing in a specific area of psychiatry",
+              "suggestions": "Should continue learning and stay updated with recent medical advancements"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Radha Gupta",
+      "address": "110, Ram Niwas, Jaipur, Rajasthan",
+      "email": "radha.gupta@example.com",
+      "mobileNumber": "+919874562123",
+      "personalWebsite": "www.radhagupta.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/radhagupta", "https://www.facebook.com/radhagupta"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Vaishya",
+      "economicStatus": "Lower middle class",
+      "background": "Rural",
+      "currentOccupation": "Nurse",
+      "education": [
+          {
+              "degree": "Diploma in Nursing",
+              "institution": "Indian Nursing Council",
+              "from": "2007-06-10T00:00:00.000Z",
+              "to": "2010-07-01T00:00:00.000Z",
+              "institutionAddress": "New Delhi"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Healthcare",
+              "stageType": "Nurse",
+              "skills": [
+                  {
+                      "skill": "Patient Care",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Medical Assistance",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Patient care and well-being",
+              "options": "Can pursue a specialized nursing program",
+              "suggestions": "Should focus on continuous learning and developing soft skills"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Krishna Bose",
+      "address": "14/3, Lake Road, Kolkata, West Bengal",
+      "email": "krishna.bose@example.com",
+      "mobileNumber": "+918756498723",
+      "personalWebsite": "www.krishnabose.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/krishnabose", "https://www.facebook.com/krishna.bose.75"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Kayastha",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Chartered Accountant",
+      "education": [
+          {
+              "degree": "Chartered Accountancy",
+              "institution": "Institute of Chartered Accountants of India",
+              "from": "2005-07-10T00:00:00.000Z",
+              "to": "2008-06-01T00:00:00.000Z",
+              "institutionAddress": "New Delhi"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Corporate Finance",
+              "stageType": "Chartered Accountant",
+              "skills": [
+                  {
+                      "skill": "Auditing",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Tax Planning",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Financing and investment strategies",
+              "options": "Can specialize in a specific area of finance",
+              "suggestions": "Should focus on the stock market and financial technologies"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Anjana Sen",
+      "address": "602, Lotus Apartment, Uttarpara, West Bengal",
+      "email": "anjana.sen@example.com",
+      "mobileNumber": "+919876512345",
+      "personalWebsite": "www.anjanasen.com",
+      "socialNetworkLink": [],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Data Analyst",
+      "education": [
+          {
+              "degree": "Bachelor of Statistics",
+              "institution": "Indian Statistical Institute, Kolkata",
+              "from": "2007-06-10T00:00:00.000Z",
+              "to": "2010-06-01T00:00:00.000Z",
+              "institutionAddress": "203 B. T. Road, Kolkata"
+          },
+          {
+              "degree": "Master of Data Science",
+              "institution": "Indian Institute of Technology, Kharagpur",
+              "from": "2011-06-10T00:00:00.000Z",
+              "to": "2013-06-01T00:00:00.000Z",
+              "institutionAddress": "Kharagpur, West Bengal"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Data Science",
+              "stageType": "Scientist",
+              "skills": [
+                  {
+                      "skill": "R Programming",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Machine Learning",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Predictive modeling and data mining",
+              "options": "Specialize in AI & ML",
+              "suggestions": "Should focus on hands-on experience on diverse projects"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Rakesh Verma",
+      "address": "52, Shiv Nagar, Gurgaon, Haryana",
+      "email": "rakesh.verma@example.com",
+      "mobileNumber": "+919852741369",
+      "personalWebsite": "www.rakeshverma.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/rakesh-verma", "https://www.facebook.com/rakeshverma"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Jat",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Software Developer",
+      "education": [
+          {
+              "degree": "B.Tech in Computer Science",
+              "institution": "Indian Institute of Technology, Delhi",
+              "from": "2009-07-10T00:00:00.000Z",
+              "to": "2013-06-01T00:00:00.000Z",
+              "institutionAddress": "Hauz Khas, New Delhi"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Software Development",
+              "stageType": "Developer",
+              "skills": [
+                  {
+                      "skill": "Java",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Web Development",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Application development and troubleshooting",
+              "options": "Cloud Computing or Cyber Security",
+              "suggestions": "Should keep updating skills as per market demands"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Aditya Mishra",
+      "address": "501, Omkar Apartments, Bhilai, Chhattisgarh",
+      "email": "aditya.mishra@example.com",
+      "mobileNumber": "+917896541230",
+      "personalWebsite": "www.adityamishra.com",
+      "socialNetworkLink": ["https://www.linkedin.com/adityamishra", "https://twitter.com/aditya_mishra"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Brahmin-Saryuparin",
+      "economicStatus": "Lower middle class",
+      "background": "Urban",
+      "currentOccupation": "Lecturer",
+      "education": [{
+          "degree": "MSc in Physics",
+          "institution": "Pt. Ravishankar Shukla University, Raipur",
+          "from": "2008-08-01T00:00:00.000Z",
+          "to": "2010-05-31T00:00:00.000Z",
+          "institutionAddress": "Amanaka G.E.Road, Raipur"
+      },
+      {
+          "degree": "BEd",
+          "institution": "Maharishi University of Management and Technology, Bilaspur",
+          "from": "2011-08-01T00:00:00.000Z",
+          "to": "2012-05-31T00:00:00.000Z",
+          "institutionAddress": "Mangla, Bilaspur"
+      }],
+      "stages": [{
+          "stageName": "School Education",
+          "stageType": "Educator",
+          "skills": [{
+              "skill": "Physics Instruction",
+              "effort": "High"
+          },
+          {
+              "skill": "Curriculum Development",
+              "effort": "Medium"
+          }],
+          "learnings": "Effective pedagogical techniques",
+          "options": "Guidance and counselling",
+          "suggestions": "Should pursue PhD for career advancement"
+      }],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Jatin Nath",
+      "address": "B-23, Dwarka Nagar, Shillong, Meghalaya",
+      "email": "jatin.nath@example.com",
+      "mobileNumber": "+919633800245",
+      "personalWebsite": "www.jatinnath.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/jatin-nath", "https://www.facebook.com/jatin.nath"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "economicStatus": "Lower middle class",
+      "background": "Rural",
+      "currentOccupation": "Botanist",
+      "education": [
+          {
+              "degree": "Bachelor of Science in Botany",
+              "institution": "North-Eastern Hill University",
+              "from": "2002-06-10T00:00:00.000Z",
+              "to": "2005-06-01T00:00:00.000Z",
+              "institutionAddress": "Umshing Mawkynroh, Shillong"
+          },
+          {
+              "degree": "PhD in Botany",
+              "institution": "North-Eastern Hill University",
+              "from": "2006-06-10T00:00:00.000Z",
+              "to": "2010-06-01T00:00:00.000Z",
+              "institutionAddress": "Umshing Mawkynroh, Shillong"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Plant Research",
+              "stageType": "Scientist",
+              "skills": [
+                  {
+                      "skill": "Plant Classification",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Biodiversity Conservation",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Researching various plant species",
+              "options": "Conservation Biology or Plant Breeding",
+              "suggestions": "Should explore opportunities in agro-biotech firms"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Ramesh Sahu",
+      "address": "110, Chawdi Bazaar, Raipur, Chhattisgarh",
+      "email": "ramesh.sahu@example.com",
+      "mobileNumber": "+919589631478",
+      "personalWebsite": "www.rameshsahu.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/ramesh-sahu", "https://www.facebook.com/ramesh.sahu"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Sahu",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Cloth Merchant",
+      "education": [
+          {
+              "degree": "10th Standard",
+              "institution": "Holy Cross Higher Secondary School",
+              "from": "2004-06-10T00:00:00.000Z",
+              "to": "2005-04-01T00:00:00.000Z",
+              "institutionAddress": "Byron Bazar, Raipur"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Retail Merchandise",
+              "stageType": "Businessman",
+              "skills": [
+                  {
+                      "skill": "Bargain",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Accounting",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Customer interaction and stock management",
+              "options": "Opening more stores in other regions",
+              "suggestions": "Should take online courses on retail management"
+          }
+      ],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Anishka Banerjee",
+      "address": "Flat 40, Eden Rose Building, Sector 2, Kolkata, West Bengal",
+      "email": "anishka.banerjee@example.com",
+      "mobileNumber": "+919651347892",
+      "personalWebsite": null,
+      "socialNetworkLink": ["https://www.linkedin.com/in/anishka-banerjee", "https://www.facebook.com/anishka.banerjee"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Bengali",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Fashion Designer",
+      "education": [
+          {
+              "degree": "Bachelor in Fashion Technology",
+              "institution": "National Institute of Fashion Technology, Kolkata",
+              "from": "2011-06-10T00:00:00.000Z",
+              "to": "2015-06-01T00:00:00.000Z",
+              "institutionAddress": "Salt Lake City, Kolkata"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Fashion Industry",
+              "stageType": "Designer",
+              "skills": [
+                  {
+                      "skill": "Pattern Making",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Fashion Illustration",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Designing tailored clothing and accessories",
+              "options": "Building own fashion label",
+              "suggestions": "Should keep track of latest fashion trends"
+          }
+      ],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Roopam Sharma",
+      "address": "House 324, Shivalik Avenue, Nangal, Punjab",
+      "email": "roopam.sharma@example.com",
+      "mobileNumber": "+919654785423",
+      "personalWebsite": null,
+      "socialNetworkLink": ["https://www.linkedin.com/in/roopam-sharma", "https://www.facebook.com/roopam.sharma"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "economicStatus": "Lower middle class",
+      "background": "Rural",
+      "currentOccupation": "Police Inspector",
+      "education": [
+          {
+              "degree": "Bachelor of Arts in Sociology",
+              "institution": "Punjab University, Chandigarh",
+              "from": "2000-06-10T00:00:00.000Z",
+              "to": "2003-04-01T00:00:00.000Z",
+              "institutionAddress": "Sector 14, Chandigarh"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Law Enforcement",
+              "stageType": "Inspector",
+              "skills": [
+                  {
+                      "skill": "Investigation",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Interrogation",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Solving criminal cases and law enforcement",
+              "options": "Preparation for civil services for career growth",
+              "suggestions": "Should update himself about legal changes and amendments"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Gautam Iyer",
+      "address": "House 654, Majestic View society, Pune, Maharashtra",
+      "email": "gautam.iyer@example.com",
+      "mobileNumber": "+919868542631",
+      "personalWebsite": "www.gautam-iyer.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/gautam-iyer", "https://www.facebook.com/gautam-iyer"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Brahmin - Iyer",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Software Engineer",
+      "education": [
+          {
+              "degree": "Bachelor of Technology in Computer Science",
+              "institution": "Indian Institute of Technology, Bombay",
+              "from": "2004-07-10T00:00:00.000Z",
+              "to": "2008-05-31T00:00:00.000Z",
+              "institutionAddress": "Powai, Mumbai"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Technology",
+              "stageType": "Engineer",
+              "skills": [
+                  {
+                      "skill": "Java",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Python",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Developing efficient software systems",
+              "options": "Can explore project management roles",
+              "suggestions": "Should focus on learning new programming languages and technologies"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Ramesh Ayyar",
+      "address": "14, Saibaba Colony, Coimbatore, Tamil Nadu",
+      "email": "ramesh.ayyar@example.com",
+      "mobileNumber": "+919876745632",
+      "personalWebsite": "www.rameshayyar.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/rameshayyar", "https://www.facebook.com/ramesh.ayyar"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Brahmin - Iyer",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Architect",
+      "education": [
+          {
+              "degree": "Bachelor of Architecture",
+              "institution": "School of Architecture and Planning, Chennai",
+              "from": "2006-08-10T00:00:00.000Z",
+              "to": "2011-06-01T00:00:00.000Z",
+              "institutionAddress": "Anna University, Chennai"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Building Design",
+              "stageType": "Architect",
+              "skills": [
+                  {
+                      "skill": "AutoCAD",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "SketchUp",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Designing buildings and other structures",
+              "options": "Can explore green architecture",
+              "suggestions": "Should update himself about the latest trends in architecture"
+          }
+      ],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Padmini Reddy",
+      "address": "Flat 12, Lakshmi Residency, Hyderabad, Telangana",
+      "email": "padmini.reddy@example.com",
+      "mobileNumber": "+919489652145",
+      "personalWebsite": "www.padminireddy.com",
+      "socialNetworkLink": ["https://linkedin.com/in/padminireddy", "https://www.facebook.com/padmini.reddy"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Reddy",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Software Developer",
+      "education": [
+          {
+              "degree": "Bachelor of Technology in Computer Science",
+              "institution": "National Institute of Technology, Warangal",
+              "from": "2012-08-10T00:00:00.000Z",
+              "to": "2016-06-01T00:00:00.000Z",
+              "institutionAddress": "Warangal"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Software Development",
+              "stageType": "Developer",
+              "skills": [
+                  {
+                      "skill": "Java",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Python",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Developing efficient software systems",
+              "options": "Can explore AI and Machine Learning",
+              "suggestions": "Should focus on improving problem solving and coding skills"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Manish Rana",
+      "address": "107, Himmat Apartments, Pushkar, Rajasthan",
+      "email": "manish.rana@example.com",
+      "mobileNumber": "+919685723410",
+      "personalWebsite": "www.manishrana.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/manish-rana", "https://www.facebook.com/manish.rana"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Rajput",
+      "economicStatus": "Upper class",
+      "background": "Urban",
+      "currentOccupation": "Civil Engineer",
+      "education": [
+          {
+              "degree": "B. Tech in Civil Engineering",
+              "institution": "Indian Institute of Technology, Delhi",
+              "from": "2005-07-10T00:00:00.000Z",
+              "to": "2009-06-01T00:00:00.000Z",
+              "institutionAddress": "Hauz Khas, New Delhi"
+          },
+          {
+              "degree": "M. Tech in Structural Engineering",
+              "institution": "Indian Institute of Technology, Bombay",
+              "from": "2010-07-12T00:00:00.000Z",
+              "to": "2012-05-31T00:00:00.000Z",
+              "institutionAddress": "Powai, Mumbai"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Civil Engineering",
+              "stageType": "Engineer",
+              "skills": [
+                  {
+                      "skill": "Project Management",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Structural Analysis",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Planning, designing and overseeing construction",
+              "options": "Can explore opportunities in architecture",
+              "suggestions": "Should engage in continuous learning of new technologies and practices"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Megha Singh",
+      "address": "221, Parijat Block, Lucknow, Uttar Pradesh",
+      "email": "megha.singh@example.com",
+      "mobileNumber": "+919850123679",
+      "personalWebsite": "www.meghasingh.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/megha-singh", "https://www.facebook.com/megha.singh"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Thakur",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "School Teacher",
+      "education": [
+          {
+              "degree": "Bachelor of Education",
+              "institution": "Lucknow University",
+              "from": "2005-07-10T00:00:00.000Z",
+              "to": "2006-06-01T00:00:00.000Z",
+              "institutionAddress": "Lucknow"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Primary Education",
+              "stageType": "Teacher",
+              "skills": [
+                  {
+                      "skill": "Child Development",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Curriculum Design",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Teaching and child psychology",
+              "options": "Remote teaching and educational consulting",
+              "suggestions": "Should pursue advanced degree in education"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Sudhir Mehta",
+      "address": "Flat 403, Navalakha Apartments, Indore, Madhya Pradesh",
+      "email": "sudhir.mehta@example.com",
+      "mobileNumber": "+919874523101",
+      "personalWebsite": "www.sudhirmehta.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/sudhir-mehta", "https://www.facebook.com/sudhir.mehta"],
+      "gender": "Male",
+      "religion": "Jain",
+      "caste": "Vaishya",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Chartered Accountant",
+      "education": [
+          {
+              "degree": "Bachelor of Commerce",
+              "institution": "Devi Ahilya Vishwavidyalaya, Indore",
+              "from": "2003-06-10T00:00:00.000Z",
+              "to": "2006-06-01T00:00:00.000Z",
+              "institutionAddress": "R.N.T. Marg, Indore"
+          },
+          {
+              "degree": "Chartered Accountant",
+              "institution": "Institute of Chartered Accountants of India, Delhi",
+              "from": "2007-06-10T00:00:00.000Z",
+              "to": "2010-06-01T00:00:00.000Z",
+              "institutionAddress": "ICAI Bhawan, Post Box No. 7100, Indrapastha Marg, New Delhi"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Finance and Accounts",
+              "stageType": "Accountant",
+              "skills": [
+                  {
+                      "skill": "Auditing",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Tax Planning",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Financial management and audit",
+              "options": "Can explore the field of investment planning",
+              "suggestions": "Should focus on continuous professional learning"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Amita Chahal",
+      "address": "House 72, Sainik Enclave, Mohali, Punjab",
+      "email": "amita.chahal@example.com",
+      "mobileNumber": "+919785632541",
+      "personalWebsite": "www.amitachahal.com",
+      "socialNetworkLink": ["https://linkedin.com/in/amitachahal", "https://www.facebook.com/amita.chahal"],
+      "gender": "Female",
+      "religion": "Sikh",
+      "caste": "Jat",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Nurse",
+      "education": [
+          {
+              "degree": "Auxiliary Nurse Midwifery",
+              "institution": "Government Medical College & Hospital, Chandigarh",
+              "from": "2005-06-10T00:00:00.000Z",
+              "to": "2007-06-01T00:00:00.000Z",
+              "institutionAddress": "Chandi Path, Sector 32B"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Healthcare",
+              "stageType": "Nurse",
+              "skills": [
+                  {
+                      "skill": "Patient Care",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Counselling",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Provide high quality patient care",
+              "options": "Can explore specialized fields like paediatric nursing",
+              "suggestions": "Should take short courses to improve skills"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Rajeev Goel",
+      "address": "B-45, Kirti Nagar, New Delhi, Delhi",
+      "email": "rajeev.goel@example.com",
+      "mobileNumber": "+919876534210",
+      "personalWebsite": "www.rajeevgoel.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/rajeev-goel", "https://www.facebook.com/rajeev.goel"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Aggarwal",
+      "economicStatus": "Upper middle class",
+      "background": "Urban",
+      "currentOccupation": "Entrepreneur",
+      "education": [
+          {
+              "degree": "Bachelor of Technology, Mechanical Engineering",
+              "institution": "Indian Institute of Technology, Delhi",
+              "from": "2002-07-01T00:00:00.000Z",
+              "to": "2006-05-31T00:00:00.000Z",
+              "institutionAddress": "Hauz Khas, New Delhi"
+          },
+          {
+              "degree": "Master of Business Administration",
+              "institution": "Indian School of Business, Hyderabad",
+              "from": "2008-07-01T00:00:00.000Z",
+              "to": "2010-05-31T00:00:00.000Z",
+              "institutionAddress": "Gachibowli, Hyderabad"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Business and Entrepreneurship",
+              "stageType": "Businessman",
+              "skills": [
+                  {
+                      "skill": "Business Development",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Marketing Strategy",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Venture Capital, Strategic Partnership, Marketing, Sales",
+              "options": "Invest in new startup projects",
+              "suggestions": "Should focus on new market trends"
+          }
+      ],
+      "status": "Self-Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Laxman Verma",
+      "address": "82-C, Malviya Nagar, Jaipur, Rajasthan",
+      "email": "laxman.verma@example.com",
+      "mobileNumber": "+919780965241",
+      "personalWebsite": "www.laxmanverma.com",
+      "socialNetworkLink": ["https://www.linkedin.com/in/lverma", "https://www.facebook.com/laxman.verma"],
+      "gender": "Male",
+      "religion": "Hindu",
+      "caste": "Rajput",
+      "economicStatus": "Middle class",
+      "background": "Urban",
+      "currentOccupation": "Chartered Accountant",
+      "education": [
+          {
+              "degree": "Chartered Accountancy",
+              "institution": "The Institute of Chartered Accountants of India, Delhi",
+              "from": "2013-07-15T00:00:00.000Z",
+              "to": "2016-07-16T00:00:00.000Z",
+              "institutionAddress": "ICAI Bhawan, Hostel Block, A-29, Sector-62, Noida - 201309, India"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Finance and Taxation",
+              "stageType": "Financial Analyst",
+              "skills": [
+                  {
+                      "skill": "Financial Reporting",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Tax Preparation",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Filing tax and financial planning",
+              "options": "Can explore consultancy services",
+              "suggestions": "Should do continuous professional development"
+          }
+      ],
+      "status": "Employed",
+      "verified_by": null
+  },
+  {
+      "name": "Sheela Devi",
+      "address": "62/B, Green Fields, Erode, Tamilnadu",
+      "email": "sheeladevi@example.com",
+      "mobileNumber": "+919698745632",
+      "personalWebsite": "www.sheeladevi.com",
+      "socialNetworkLink": ["https://linkedin.com/in/sheela-devi","https://twitter.com/sheeladevi"],
+      "gender": "Female",
+      "religion": "Hindu",
+      "caste": "Chettiar",
+      "economicStatus": "Upper Middle class",
+      "background": "Urban",
+      "currentOccupation": "Homemaker",
+      "education": [
+          {
+              "degree": "Bachelor of Arts in English Literature",
+              "institution": "Bharathiar University, Coimbatore",
+              "from": "1999-06-15T00:00:00.000Z",
+              "to": "2002-04-25T00:00:00.000Z",
+              "institutionAddress": "Marudhamalai Rd, Bharathiyar University, Coimbatore, Tamil Nadu"
+          }
+      ],
+      "stages": [
+          {
+              "stageName": "Family Management",
+              "stageType": "Homemaker",
+              "skills": [
+                  {
+                      "skill": "Budget Planning",
+                      "effort": "High"
+                  },
+                  {
+                      "skill": "Cooking",
+                      "effort": "Medium"
+                  }
+              ],
+              "learnings": "Effective household management",
+              "options": "Can start a home-based business",
+              "suggestions": "Should join hobby classes or community groups"
+          }
+      ],
+      "status": "Homemaker",
+      "verified_by": null
+  }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "name": "Allah Rakha Rahman",
+        "city": {
+            "id": 1,
+            "name": "Madras"
+        },
+        "address": "Madras, Tamil Nadu, India",
+        "state": {
+            "iso2": "TN",
+            "name": "Tamil Nadu"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 12345 67890",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [
+            "N/A"
+        ],
+        "gender": "Male",
+        "religion": "Islam",
+        "caste": "Mudaliar",
+        "economicStatus": "Affluent",
+        "background": "Musician",
+        "currentOccupation": "Music composer, record producer, singer, songwriter, musician, multi-instrumentalist, and philanthropist",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Diploma in Western Classical Music"
+                },
+                "college": {
+                    "collegeName": "Madras Christian College Higher Secondary School",
+                    "city": {
+                        "id": 1,
+                        "name": "Madras"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Joined Music Industry"
+                },
+                "job": {
+                    "job": "Music Composer"
+                },
+                "experience": "Rahman began his early musical training under Master Dhanraj and at age 11 began playing in the orchestra of Malayalam composer M. K. Arjunan. He started his film-scoring career during the early 1990s with the Tamil film Roja.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "To make a career in music and become a music composer in the Indian film industry.",
+                "suggestion": "Being persistent and hardworking in learning and honing the skills."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Achieving Recognition"
+                },
+                "job": {
+                    "job": "Music Composer"
+                },
+                "experience": "Scored music for several successful films and won awards. His music for Slumdog Millionaire earned him Best Original Score and Best Original Song at the 81st Academy Awards.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Recognition for his work and passion for music.",
+                "suggestion": "Stay dedicated and focused on your craft."
+            }
+        ],
+        "status": "Verified",
+        "skills": [
+            {
+                "skillName": "Music composition"
+            },
+            {
+                "skillName": "Singing"
+            },
+            {
+                "skillName": "Record Production"
+            }
+        ],
+        "advice": "Follow your passion and work hard.",
+        "verified_by": null
+    },
+    {
+        "name": "Lata Mangeshkar",
+        "city": {
+            "id": 2,
+            "name": "Indore"
+        },
+        "address": "Indore, Madhya Pradesh, India",
+        "state": {
+            "iso2": "MP",
+            "name": "Madhya Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "lata@mangeshkar.com",
+        "mobileNumber": "+91 12345 67890",
+        "personalWebsite": "www.latamangeshkar.com",
+        "socialNetworkLink": [
+            "www.facebook.com/lata",
+            "www.twitter.com/lata",
+            "www.instagram.com/lata"
+        ],
+        "gender": "Female",
+        "religion": "Hindu",
+        "caste": "Brahman",
+        "economicStatus": "Wealthy",
+        "background": "Born in a Brahmin family on 28 September 1929 in Indore, to classical singer and theatre actor, Deenanath Mangeshkar and Shevanti Mangeshkar.",
+        "currentOccupation": "Playback Singer, Music Composer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Hindustani Classical Music"
+                },
+                "college": {
+                    "collegeName": "Ustad Aman Ali Khan of Bhindibazaar Gharana",
+                    "city": {
+                        "id": 3,
+                        "name": "Mumbai"
+                    },
+                    "state": {
+                        "iso2": "MH",
+                        "name": "Maharashtra"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 0,
+                "degree": {
+                    "degree": "Career Launch and Initial Years"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "She began her singing career by singing songs in Marathi and Hindi languages for various films with notable music directors of those times.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "N/A",
+                "suggestion": "Worked with various musicians and improved her skills, understanding of music."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Golden Era and Peak of Career"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "She became an established playback singer and sang songs in over thirty-six Indian languages and a few foreign languages for a plethora of films.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "N/A",
+                "suggestion": "Explored various genres of music and established her unique style of singing."
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Post Peak Years"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "Continued to work with music directors spanning generations. She also performed in concerts in India and abroad.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "N/A",
+                "suggestion": "Stayed relevant in the music industry by adapting to changing musical trends and working with newer generations of music directors."
+            }
+        ],
+        "status": "Passed away",
+        "skills": [],
+        "advice": "N/A",
+        "verified_by": "5d71e792f22da56018342f1b"
+    },
+    {
+        "name": "Kishore Kumar",
+        "city": {
+            "id": 4,
+            "name": "Khandwa"
+        },
+        "address": "N/A",
+        "state": {
+            "iso2": "MP",
+            "name": "Madhya Pradesh"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "+91 XXXXX XXXXX",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Hinduism",
+        "caste": "Brahmin",
+        "economicStatus": "Affluent",
+        "background": "Bengali Brahmin",
+        "currentOccupation": "Playback Singer, Musician, Actor",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Graduate"
+                },
+                "college": {
+                    "collegeName": "Christian College, Indore",
+                    "city": {
+                        "id": 5,
+                        "name": "Indore"
+                    },
+                    "state": {
+                        "iso2": "MP",
+                        "name": "Madhya Pradesh"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Early singing career"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "Trained in singing, developed his own unique style",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Inspired by singer K. L. Saigal and actor-singer Danny Kaye.",
+                "suggestion": "Develop a unique style instead of copying others."
+            },
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Acting Career"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acting skills and Film industry knowledge",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Inspired by his brother, Ashok Kumar.",
+                "suggestion": "Explore all opportunities and try to venture into different fields."
+            }
+        ],
+        "status": "Passed away",
+        "skills": [],
+        "advice": "Dedication and consistency pays off.",
+        "verified_by": "XXXXX"
+    },
+    {
+        "name": "Mohammed Rafi",
+        "city": {
+            "id": 6,
+            "name": "Mumbai"
+        },
+        "address": "Juhu Muslim cemetery, Mumbai",
+        "state": {
+            "iso2": "MH",
+            "name": "Maharashtra"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "N/A",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Male",
+        "religion": "Islam",
+        "caste": "Jat Muslim",
+        "economicStatus": "High",
+        "background": "From a Punjabi Jat Muslim Family. Second eldest of six brothers",
+        "currentOccupation": "Playback singer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Classical music"
+                },
+                "college": {
+                    "collegeName": "From Ustad Abdul Wahid Khan, Pandit Jiwan Lal Mattoo and Firoze Nizami",
+                    "city": {
+                        "id": 7,
+                        "name": "Lahore"
+                    },
+                    "state": {
+                        "iso2": "PK",
+                        "name": "Punjab"
+                    },
+                    "country": {
+                        "iso2": "PK",
+                        "name": "Pakistan"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "Beginning of musical career"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "Started learning by imitating the chants of a fakir. Later formally trained under Ustad Abdul Wahid Khan, Pandit Jiwan Lal Mattoo and Firoze Nizami.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Passion for music and singing",
+                "suggestion": "Train under a proficient teacher to gain mastery over classical music"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Entry into Bollywood"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "Made his debut in the Hindi film industry with the film Gaon Ki Gori in 1945. Acquired fame and recognition for his skill and talent.",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Passion for music and singing. Wanted to make a name in the film industry.",
+                "suggestion": "Hard work and dedication can lead to success in Bollywood"
+            }
+        ],
+        "status": "Active",
+        "skills": [],
+        "advice": "Always remain humble and grounded, even after achieving success.",
+        "verified_by": null
+    },
+    {
+        "name": "Madurai Shanmukhavadivu Subbulakshmi",
+        "city": {
+            "id": 8,
+            "name": "Madurai"
+        },
+        "address": "Kotturpuram, Chennai",
+        "state": {
+            "iso2": "TN",
+            "name": "Tamil Nadu"
+        },
+        "country": {
+            "iso2": "IN",
+            "name": "India"
+        },
+        "email": "N/A",
+        "mobileNumber": "N/A",
+        "personalWebsite": "N/A",
+        "socialNetworkLink": [],
+        "gender": "Female",
+        "religion": "Hindu",
+        "caste": "Brahmin",
+        "economicStatus": "High",
+        "background": "Born to a family of musicians with rich Indian heritage and culture",
+        "currentOccupation": "Carnatic singer",
+        "currentSalary": 0,
+        "interests": [],
+        "educations": [
+            {
+                "degree": {
+                    "degree": "Carnatic music learning"
+                },
+                "college": {
+                    "collegeName": "Semmangudi Srinivasa Iyer",
+                    "city": {
+                        "id": 8,
+                        "name": "Madurai"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            },
+            {
+                "degree": {
+                    "degree": "Hindustani music learning"
+                },
+                "college": {
+                    "collegeName": "Pandit Narayanrao Vyas",
+                    "city": {
+                        "id": 8,
+                        "name": "Madurai"
+                    },
+                    "state": {
+                        "iso2": "TN",
+                        "name": "Tamil Nadu"
+                    },
+                    "country": {
+                        "iso2": "IN",
+                        "name": "India"
+                    }
+                }
+            }
+        ],
+        "stages": [
+            {
+                "stageType": 1,
+                "degree": {
+                    "degree": "First public performance"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "Performed in the 100 pillar hall inside the Rockfort Temple, Tiruchirappalli",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Passion for Carnatic music",
+                "suggestion": "Regular practice and commitment"
+            },
+            {
+                "stageType": 2,
+                "degree": {
+                    "degree": "Film debut"
+                },
+                "job": {
+                    "job": "Actor"
+                },
+                "experience": "Acted in the film Sevasadan",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Interest in acting and music",
+                "suggestion": "Balance between music and acting"
+            },
+            {
+                "stageType": 3,
+                "degree": {
+                    "degree": "International performance"
+                },
+                "job": {
+                    "job": "Singer"
+                },
+                "experience": "Performance at prestigious international platforms including the UN General Assembly and Carnegie Hall",
+                "skills": [],
+                "livingCondition": {
+                    "livingCondition": "Not Available"
+                },
+                "assistance": "N/A",
+                "motivation": "Desire to spread Indian classical music globally",
+                "suggestion": "Perseverance and determination in proving Indian music internationally"
+            }
+        ],
+        "status": "Deceased",
+        "skills": [],
+        "advice": "Music is divine.",
+        "verified_by": null
+    }
+]
